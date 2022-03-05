@@ -17,3 +17,6 @@ MK-Tool [`MK-Mods-OFC/MK-Tool`](https://github.com/MK-Mods-OFC/MK-Tool)
 * [`WhatsApp`](https://wa.me/34698901397)
 * [`Instagram`](https://instagram.com/mikey69yt)
 
+## Mis Bots
+* [`MK-Bots`](https://linktr.ee/MK.Mods.Bots)
+
