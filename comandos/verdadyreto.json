@@ -1,0 +1,2126 @@
+{
+  "verdadyreto": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "tipo": "Prueba",
+      "texto": "I Prueba you to do 10 pushups with one hand in less than a minute"
+    },
+    {
+      "id": 2,
+      "tipo": "Verdad",
+      "texto": "What actor/actress do you prefer?"
+    },
+    {
+      "id": 3,
+      "tipo": "Verdad",
+      "texto": "Who is your secret crush?"
+    },
+    {
+      "id": 4,
+      "tipo": "Verdad",
+      "texto": "What is the most disgusting thing you've ever done?"
+    },
+    {
+      "id": 5,
+      "tipo": "Prueba",
+      "texto": "I Prueba you to do a headstand for 2 mins"
+    },
+    {
+      "id": 6,
+      "tipo": "Verdad",
+      "texto": "What is your biggest fear in a relationship?"
+    },
+    {
+      "id": 7,
+      "tipo": "Verdad",
+      "texto": "What was your funniest first date ever?"
+    },
+    {
+      "id": 8,
+      "tipo": "Verdad",
+      "texto": "What is your biggest turn off in a partner?"
+    },
+    {
+      "id": 9,
+      "tipo": "Verdad",
+      "texto": "What is your weirdest habit?"
+    },
+    {
+      "id": 10,
+      "tipo": "Verdad",
+      "texto": "How many kids would you like to have?"
+    },
+    {
+      "id": 11,
+      "tipo": "Verdad",
+      "texto": "What is the perfect first day?"
+    },
+    {
+      "id": 12,
+      "tipo": "Verdad",
+      "texto": "What is one embarrassing fact I should know about you?"
+    },
+    {
+      "id": 13,
+      "tipo": "Verdad",
+      "texto": "What was your childhood nickname?"
+    },
+    {
+      "id": 14,
+      "tipo": "Verdad",
+      "texto": "What is your favourite movie?"
+    },
+    {
+      "id": 15,
+      "tipo": "Verdad",
+      "texto": "Describe your worst date ever?"
+    },
+    {
+      "id": 16,
+      "tipo": "Verdad",
+      "texto": "If there was no such thing as money; what would you do with your life?"
+    },
+    {
+      "id": 17,
+      "tipo": "Verdad",
+      "texto": "What is your favourite food?"
+    },
+    {
+      "id": 18,
+      "tipo": "Verdad",
+      "texto": "What are your three favourite colours; and why?"
+    },
+    {
+      "id": 19,
+      "tipo": "Verdad",
+      "texto": "What is your dream job?"
+    },
+    {
+      "id": 20,
+      "tipo": "Verdad",
+      "texto": "If you were trapped on an island for 3 days; what would you take with you?"
+    },
+    {
+      "id": 21,
+      "tipo": "Verdad",
+      "texto": "Who is your favourite person and why?"
+    },
+    {
+      "id": 22,
+      "tipo": "Verdad",
+      "texto": "Do you prefer apple or android?"
+    },
+    {
+      "id": 23,
+      "tipo": "Verdad",
+      "texto": "How do you put your toilet paper on the roll?"
+    },
+    {
+      "id": 24,
+      "tipo": "Verdad",
+      "texto": "What is your best talent?"
+    },
+    {
+      "id": 25,
+      "tipo": "Verdad",
+      "texto": "Do you believe in love at first sight?"
+    },
+    {
+      "id": 26,
+      "tipo": "Verdad",
+      "texto": "Do you believe in love at all?"
+    },
+    {
+      "id": 27,
+      "tipo": "Verdad",
+      "texto": "What is your dream wedding?"
+    },
+    {
+      "id": 28,
+      "tipo": "Verdad",
+      "texto": "Would you ever consider being a nudist?"
+    },
+    {
+      "id": 29,
+      "tipo": "Verdad",
+      "texto": "How do you feel about end pieces of a loaf of bread?"
+    },
+    {
+      "id": 30,
+      "tipo": "Verdad",
+      "texto": "Can you touch your tongue to your nose?"
+    },
+    {
+      "id": 31,
+      "tipo": "Verdad",
+      "texto": "If you could take away one bad thing in the world; what would it be?"
+    },
+    {
+      "id": 32,
+      "tipo": "Verdad",
+      "texto": "What is your guilty pleasure?"
+    },
+    {
+      "id": 33,
+      "tipo": "Verdad",
+      "texto": "What is the most exotic food that you have ever eaten?"
+    },
+    {
+      "id": 34,
+      "tipo": "Verdad",
+      "texto": "What country would like to live in if you had the chance?"
+    },
+    {
+      "id": 35,
+      "tipo": "Verdad",
+      "texto": "If you could change one thing on your body; what would it be?"
+    },
+    {
+      "id": 36,
+      "tipo": "Verdad",
+      "texto": "What do you daydream about the most?"
+    },
+    {
+      "id": 37,
+      "tipo": "Verdad",
+      "texto": "Describe the weirdest dream you’ve ever had?"
+    },
+    {
+      "id": 38,
+      "tipo": "Verdad",
+      "texto": "Can you lick your elbow?"
+    },
+    {
+      "id": 39,
+      "tipo": "Verdad",
+      "texto": "What is your favourite season of the year?"
+    },
+    {
+      "id": 40,
+      "tipo": "Verdad",
+      "texto": "Could you go a week without junk food?"
+    },
+    {
+      "id": 41,
+      "tipo": "Verdad",
+      "texto": "How was your first kiss?"
+    },
+    {
+      "id": 42,
+      "tipo": "Verdad",
+      "texto": "Describe your worst kiss ever?"
+    },
+    {
+      "id": 43,
+      "tipo": "Verdad",
+      "texto": "Do you like to exercise?"
+    },
+    {
+      "id": 44,
+      "tipo": "Prueba",
+      "texto": "Do an impression of your favorite celebrity"
+    },
+    {
+      "id": 45,
+      "tipo": "Prueba",
+      "texto": "Close your eyes and send a blind text to a random person"
+    },
+    {
+      "id": 46,
+      "tipo": "Prueba",
+      "texto": "Go grab a broom and do your best tango"
+    },
+    {
+      "id": 47,
+      "tipo": "Prueba",
+      "texto": "Give a 3 minute stand-up comedy routine"
+    },
+    {
+      "id": 48,
+      "tipo": "Prueba",
+      "texto": "Break dance"
+    },
+    {
+      "id": 49,
+      "tipo": "Prueba",
+      "texto": "Make up a story about the item to your right"
+    },
+    {
+      "id": 50,
+      "tipo": "Prueba",
+      "texto": "Sing the alphabet without moving your mouth"
+    },
+    {
+      "id": 51,
+      "tipo": "Prueba",
+      "texto": "Do your best president impression"
+    },
+    {
+      "id": 52,
+      "tipo": "Prueba",
+      "texto": "Yell out the first word that comes to your mind right now"
+    },
+    {
+      "id": 53,
+      "tipo": "Prueba",
+      "texto": "Call the pizza place and order 300 sardine pizzas"
+    },
+    {
+      "id": 54,
+      "tipo": "Prueba",
+      "texto": "Pound on your chest and act like a gorilla for the next minute"
+    },
+    {
+      "id": 55,
+      "tipo": "Prueba",
+      "texto": "Sing everything you say for the next 10 minutes"
+    },
+    {
+      "id": 56,
+      "tipo": "Prueba",
+      "texto": "Give a foot massage"
+    },
+    {
+      "id": 57,
+      "tipo": "Prueba",
+      "texto": "Say the alphabet backwards in 15 seconds"
+    },
+    {
+      "id": 58,
+      "tipo": "Prueba",
+      "texto": "Go to the neighbour’s house and ask for a banana"
+    },
+    {
+      "id": 59,
+      "tipo": "Prueba",
+      "texto": "Go up to someone random and ask for a hug"
+    },
+    {
+      "id": 60,
+      "tipo": "Prueba",
+      "texto": "Set your cell phone language to Chinese for the next 10 minutes"
+    },
+    {
+      "id": 61,
+      "tipo": "Prueba",
+      "texto": "Act like your favourite Disney character for the rest of the game"
+    },
+    {
+      "id": 62,
+      "tipo": "Prueba",
+      "texto": "Sing “Twinkle Twinkle; Little Star” while beat boxing"
+    },
+    {
+      "id": 63,
+      "tipo": "Prueba",
+      "texto": "Give a concert with your air guitar"
+    },
+    {
+      "id": 64,
+      "tipo": "Prueba",
+      "texto": "Make a poem using the words orange and moose"
+    },
+    {
+      "id": 65,
+      "tipo": "Prueba",
+      "texto": "Unbuckle your own belt using your elbows"
+    },
+    {
+      "id": 66,
+      "tipo": "Prueba",
+      "texto": "Brush someone else’s teeth"
+    },
+    {
+      "id": 67,
+      "tipo": "Prueba",
+      "texto": "Twerk for a minute"
+    },
+    {
+      "id": 68,
+      "tipo": "Prueba",
+      "texto": "Belly dance to a country song"
+    },
+    {
+      "id": 69,
+      "tipo": "Prueba",
+      "texto": "Make up a country song of the top of your head"
+    },
+    {
+      "id": 70,
+      "tipo": "Prueba",
+      "texto": "Get on all fours and act like a dog until your next turn"
+    },
+    {
+      "id": 71,
+      "tipo": "Prueba",
+      "texto": "Make up a short rap about another player"
+    },
+    {
+      "id": 72,
+      "tipo": "Prueba",
+      "texto": "Act like Romeo from “Romeo and Juliet” (pick who you want to be Juliet)"
+    },
+    {
+      "id": 73,
+      "tipo": "Prueba",
+      "texto": "Do an impression of someone until another player can guess who you are"
+    },
+    {
+      "id": 74,
+      "tipo": "Prueba",
+      "texto": "Say “ya heard meh” after everything you say for the next 5 minutes"
+    },
+    {
+      "id": 75,
+      "tipo": "Prueba",
+      "texto": "Act like you do not understand your own language until your next turn (come up with your own language)"
+    },
+    {
+      "id": 76,
+      "tipo": "Prueba",
+      "texto": "Use the letters of the name of another player to describe them (ex. SAM : S – Silly"
+    },
+    {
+      "id": 77,
+      "tipo": "Prueba",
+      "texto": "Only use sign language for the next round"
+    },
+    {
+      "id": 78,
+      "tipo": "Prueba",
+      "texto": "Do pushups until it’s your turn again"
+    },
+    {
+      "id": 79,
+      "tipo": "Prueba",
+      "texto": "Wear a finger moustache for the next 5 minutes"
+    },
+    {
+      "id": 80,
+      "tipo": "Prueba",
+      "texto": "Only use your elbows and knees to go make a sandwich"
+    },
+    {
+      "id": 81,
+      "tipo": "Prueba",
+      "texto": "Write a Facebook (or other social media) post only using your toes"
+    },
+    {
+      "id": 82,
+      "tipo": "Prueba",
+      "texto": "Take a selfie with the toilet and post it online"
+    },
+    {
+      "id": 83,
+      "tipo": "Prueba",
+      "texto": "Paint your toenails only using your teeth"
+    },
+    {
+      "id": 84,
+      "tipo": "Verdad",
+      "texto": "How flexible are you?"
+    },
+    {
+      "id": 85,
+      "tipo": "Prueba",
+      "texto": "Take and ice cube and run it up and down your partner’s body until it is melted"
+    },
+    {
+      "id": 86,
+      "tipo": "Prueba",
+      "texto": "Give a back rub the person to your right"
+    },
+    {
+      "id": 87,
+      "tipo": "Verdad",
+      "texto": "What is your favourite color?"
+    },
+    {
+      "id": 88,
+      "tipo": "Verdad",
+      "texto": "What is your favourite animal?"
+    },
+    {
+      "id": 89,
+      "tipo": "Verdad",
+      "texto": "What is your favourite food?"
+    },
+    {
+      "id": 90,
+      "tipo": "Verdad",
+      "texto": "What is your favourite school subject?"
+    },
+    {
+      "id": 91,
+      "tipo": "Verdad",
+      "texto": "Who is your favourite teacher; and why?"
+    },
+    {
+      "id": 92,
+      "tipo": "Verdad",
+      "texto": "What is your favourite song?"
+    },
+    {
+      "id": 93,
+      "tipo": "Verdad",
+      "texto": "Who is your favourite Disney character?"
+    },
+    {
+      "id": 94,
+      "tipo": "Verdad",
+      "texto": "What is your favourite TV show?"
+    },
+    {
+      "id": 95,
+      "tipo": "Verdad",
+      "texto": "What is your pet’s name?"
+    },
+    {
+      "id": 96,
+      "tipo": "Verdad",
+      "texto": "What is your shoe size?"
+    },
+    {
+      "id": 97,
+      "tipo": "Verdad",
+      "texto": "What is your favourite movie?"
+    },
+    {
+      "id": 98,
+      "tipo": "Verdad",
+      "texto": "Who is your favourite singer?"
+    },
+    {
+      "id": 99,
+      "tipo": "Verdad",
+      "texto": "Do you like bugs?"
+    },
+    {
+      "id": 100,
+      "tipo": "Verdad",
+      "texto": "What is your favourite vegetable?"
+    },
+    {
+      "id": 101,
+      "tipo": "Verdad",
+      "texto": "15. Would you rather be a chicken or duck?"
+    },
+    {
+      "id": 102,
+      "tipo": "Verdad",
+      "texto": "16. Would you rather be a pig or snake?"
+    },
+    {
+      "id": 103,
+      "tipo": "Verdad",
+      "texto": "What is your favourite game to play?"
+    },
+    {
+      "id": 104,
+      "tipo": "Verdad",
+      "texto": "Do you like doing chores?"
+    },
+    {
+      "id": 105,
+      "tipo": "Verdad",
+      "texto": "What is your favourite thing to do on the weekends?"
+    },
+    {
+      "id": 106,
+      "tipo": "Verdad",
+      "texto": "Do you know how to dance?"
+    },
+    {
+      "id": 107,
+      "tipo": "Verdad",
+      "texto": "Do you know how to cook?"
+    },
+    {
+      "id": 108,
+      "tipo": "Verdad",
+      "texto": "Can you speak a different language?"
+    },
+    {
+      "id": 109,
+      "tipo": "Verdad",
+      "texto": "What is your favourite thing to do after school?"
+    },
+    {
+      "id": 110,
+      "tipo": "Verdad",
+      "texto": "Are you in any sports?"
+    },
+    {
+      "id": 111,
+      "tipo": "Verdad",
+      "texto": "What is your favourite sport?"
+    },
+    {
+      "id": 112,
+      "tipo": "Verdad",
+      "texto": "What animal are you scared of?"
+    },
+    {
+      "id": 113,
+      "tipo": "Verdad",
+      "texto": "Are you scared of monsters?"
+    },
+    {
+      "id": 114,
+      "tipo": "Verdad",
+      "texto": "Do you have an imaginary friend?"
+    },
+    {
+      "id": 115,
+      "tipo": "Verdad",
+      "texto": "Who is your best friend?"
+    },
+    {
+      "id": 116,
+      "tipo": "Verdad",
+      "texto": "When did you learn how to ride a bike?"
+    },
+    {
+      "id": 117,
+      "tipo": "Verdad",
+      "texto": "Can you use a pogo stick?"
+    },
+    {
+      "id": 118,
+      "tipo": "Verdad",
+      "texto": "What do you want to be when you grow up?"
+    },
+    {
+      "id": 119,
+      "tipo": "Verdad",
+      "texto": "What is your favourite sport in the Olympics?"
+    },
+    {
+      "id": 120,
+      "tipo": "Verdad",
+      "texto": "What is the capital of the state that you live in?"
+    },
+    {
+      "id": 121,
+      "tipo": "Verdad",
+      "texto": "If you could go anywhere in the world; where would you go?"
+    },
+    {
+      "id": 122,
+      "tipo": "Verdad",
+      "texto": "If you a million dollars; what would you do with all of your money?"
+    },
+    {
+      "id": 123,
+      "tipo": "Verdad",
+      "texto": "If you could dye your hair any colour; what colour would you pick?"
+    },
+    {
+      "id": 124,
+      "tipo": "Verdad",
+      "texto": "How many brothers and sisters do you have?"
+    },
+    {
+      "id": 125,
+      "tipo": "Verdad",
+      "texto": "If you could be any animal; which one would you be?"
+    },
+    {
+      "id": 126,
+      "tipo": "Verdad",
+      "texto": "What is your favourite place to go out to eat?"
+    },
+    {
+      "id": 127,
+      "tipo": "Prueba",
+      "texto": "Do the silliest dance that you can think of"
+    },
+    {
+      "id": 128,
+      "tipo": "Prueba",
+      "texto": "Act like an old lady or an old man"
+    },
+    {
+      "id": 129,
+      "tipo": "Prueba",
+      "texto": "Spin around 10 times; when you get done try to walk in a straight line"
+    },
+    {
+      "id": 130,
+      "tipo": "Prueba",
+      "texto": "Do 10 jumping jacks; and then do 10 pushups"
+    },
+    {
+      "id": 131,
+      "tipo": "Prueba",
+      "texto": "Say the alphabet backwards in 30 seconds"
+    },
+    {
+      "id": 132,
+      "tipo": "Prueba",
+      "texto": "Go a whole minute without blinking"
+    },
+    {
+      "id": 133,
+      "tipo": "Prueba",
+      "texto": "Hold your breath for 10 seconds"
+    },
+    {
+      "id": 134,
+      "tipo": "Prueba",
+      "texto": "Act like a chicken for 1 minute"
+    },
+    {
+      "id": 135,
+      "tipo": "Prueba",
+      "texto": "Jump up and down until it’s your turn again"
+    },
+    {
+      "id": 136,
+      "tipo": "Prueba",
+      "texto": "Close your eyes until it’s your turn again"
+    },
+    {
+      "id": 137,
+      "tipo": "Prueba",
+      "texto": "Sing “Itsy Bitsy Spider” while standing on your head"
+    },
+    {
+      "id": 138,
+      "tipo": "Prueba",
+      "texto": "Do 5 cartwheels in a row"
+    },
+    {
+      "id": 139,
+      "tipo": "Prueba",
+      "texto": "Do a backbend"
+    },
+    {
+      "id": 140,
+      "tipo": "Prueba",
+      "texto": "Act like your favourite Disney person"
+    },
+    {
+      "id": 141,
+      "tipo": "Prueba",
+      "texto": "Say “banana” after everything you say until it is your turn again"
+    },
+    {
+      "id": 142,
+      "tipo": "Prueba",
+      "texto": "Make up a poem about the colour blue"
+    },
+    {
+      "id": 143,
+      "tipo": "Prueba",
+      "texto": "Act like a monkey until it is your turn again"
+    },
+    {
+      "id": 144,
+      "tipo": "Prueba",
+      "texto": "Do a handstand"
+    },
+    {
+      "id": 145,
+      "tipo": "Prueba",
+      "texto": "Cross your eyes"
+    },
+    {
+      "id": 146,
+      "tipo": "Prueba",
+      "texto": "Lick your nose"
+    },
+    {
+      "id": 147,
+      "tipo": "Prueba",
+      "texto": "Eat a spoonful of peanut butter"
+    },
+    {
+      "id": 148,
+      "tipo": "Prueba",
+      "texto": "Tickle the person to your right"
+    },
+    {
+      "id": 149,
+      "tipo": "Prueba",
+      "texto": "Tie your shoe strings together and try to walk to the door and back"
+    },
+    {
+      "id": 150,
+      "tipo": "Prueba",
+      "texto": "Act like a baby until your next turn"
+    },
+    {
+      "id": 151,
+      "tipo": "Prueba",
+      "texto": "Moo like a cow as loud as you can"
+    },
+    {
+      "id": 152,
+      "tipo": "Prueba",
+      "texto": "Do the sprinkler dance"
+    },
+    {
+      "id": 153,
+      "tipo": "Prueba",
+      "texto": "Act like your favourite superhero"
+    },
+    {
+      "id": 154,
+      "tipo": "Prueba",
+      "texto": "Go 10 minutes without saying the words: but; a; the; or"
+    },
+    {
+      "id": 155,
+      "tipo": "Prueba",
+      "texto": "Act like a statue until it is your turn again (no talking or moving)"
+    },
+    {
+      "id": 156,
+      "tipo": "Prueba",
+      "texto": "Meow like cat"
+    },
+    {
+      "id": 157,
+      "tipo": "Prueba",
+      "texto": "Put your leg behind you head"
+    },
+    {
+      "id": 158,
+      "tipo": "Prueba",
+      "texto": "Sing your favourite song"
+    },
+    {
+      "id": 159,
+      "tipo": "Prueba",
+      "texto": "Make a fish face"
+    },
+    {
+      "id": 160,
+      "tipo": "Prueba",
+      "texto": "Pretend that you are an airplane for 2 minutes"
+    },
+    {
+      "id": 161,
+      "tipo": "Prueba",
+      "texto": "Dance like a ballerina"
+    },
+    {
+      "id": 162,
+      "tipo": "Prueba",
+      "texto": "Say the alphabet in a different language"
+    },
+    {
+      "id": 163,
+      "tipo": "Prueba",
+      "texto": "Do your best hip hop dance"
+    },
+    {
+      "id": 164,
+      "tipo": "Prueba",
+      "texto": "Try to lick your elbow"
+    },
+    {
+      "id": 165,
+      "tipo": "Prueba",
+      "texto": "Paint your fingernails with a crayon"
+    },
+    {
+      "id": 166,
+      "tipo": "Prueba",
+      "texto": "Sit upside down in a chair until your next turn"
+    },
+    {
+      "id": 167,
+      "tipo": "Verdad",
+      "texto": "How people have you slept with on campus?"
+    },
+    {
+      "id": 168,
+      "tipo": "Verdad",
+      "texto": "What is your real GPA?"
+    },
+    {
+      "id": 169,
+      "tipo": "Verdad",
+      "texto": "What is your least favourite frat on campus?"
+    },
+    {
+      "id": 170,
+      "tipo": "Verdad",
+      "texto": "What did you do on your first night of freshman year?"
+    },
+    {
+      "id": 171,
+      "tipo": "Verdad",
+      "texto": "Have you ever blacked out from drinking too much?"
+    },
+    {
+      "id": 172,
+      "tipo": "Verdad",
+      "texto": "What is the craziest thing that you have ever done while drunk?"
+    },
+    {
+      "id": 173,
+      "tipo": "Verdad",
+      "texto": "Who is the best roommate that you have ever had?"
+    },
+    {
+      "id": 174,
+      "tipo": "Verdad",
+      "texto": "What is the most annoying thing that your roommate has ever done?"
+    },
+    {
+      "id": 175,
+      "tipo": "Verdad",
+      "texto": "Did you smoke or drink before college? Or did you start when you got here?"
+    },
+    {
+      "id": 176,
+      "tipo": "Verdad",
+      "texto": "Would you drop out of school if you were to win the lottery?"
+    },
+    {
+      "id": 177,
+      "tipo": "Verdad",
+      "texto": "What is the best party that you’ve ever been to?"
+    },
+    {
+      "id": 178,
+      "tipo": "Verdad",
+      "texto": "How many parties have you thrown at your house?"
+    },
+    {
+      "id": 179,
+      "tipo": "Verdad",
+      "texto": "What is most amount of shots that you have taken in one night?"
+    },
+    {
+      "id": 180,
+      "tipo": "Verdad",
+      "texto": "Have you ever thrown up in someone’s car?"
+    },
+    {
+      "id": 181,
+      "tipo": "Verdad",
+      "texto": "Have you ever wet bed from being too drunk?"
+    },
+    {
+      "id": 182,
+      "tipo": "Verdad",
+      "texto": "What is the longest you have gone without sleep?"
+    },
+    {
+      "id": 183,
+      "tipo": "Verdad",
+      "texto": "How many times have you skipped class for no reason?"
+    },
+    {
+      "id": 184,
+      "tipo": "Verdad",
+      "texto": "Have you ever gotten an STD?"
+    },
+    {
+      "id": 185,
+      "tipo": "Verdad",
+      "texto": "Have you ever woken up to a stranger in your bed?"
+    },
+    {
+      "id": 186,
+      "tipo": "Verdad",
+      "texto": "What is the earliest you have ever started drinking in the day?"
+    },
+    {
+      "id": 187,
+      "tipo": "Verdad",
+      "texto": "Have you ever spent your parent’s money on alcohol?"
+    },
+    {
+      "id": 188,
+      "tipo": "Verdad",
+      "texto": "How many freshmen have you slept with?"
+    },
+    {
+      "id": 189,
+      "tipo": "Verdad",
+      "texto": "Have you ever taken money from a freshman?"
+    },
+    {
+      "id": 190,
+      "tipo": "Verdad",
+      "texto": "Have you ever lied to your parents about if you were in classes or not?"
+    },
+    {
+      "id": 191,
+      "tipo": "Verdad",
+      "texto": "Have you ever taken money from your roommate?"
+    },
+    {
+      "id": 192,
+      "tipo": "Verdad",
+      "texto": "What is the most annoying thing your roommate does?"
+    },
+    {
+      "id": 193,
+      "tipo": "Verdad",
+      "texto": "Have you been in any fights while in school?"
+    },
+    {
+      "id": 194,
+      "tipo": "Verdad",
+      "texto": "Have you ever had someone write a paper for you?"
+    },
+    {
+      "id": 195,
+      "tipo": "Prueba",
+      "texto": "Take a shot"
+    },
+    {
+      "id": 196,
+      "tipo": "Prueba",
+      "texto": "Take a shot off of the person to your right"
+    },
+    {
+      "id": 197,
+      "tipo": "Prueba",
+      "texto": "Run down the street in only your underwear"
+    },
+    {
+      "id": 198,
+      "tipo": "Prueba",
+      "texto": "Slap the person to your left on the booty"
+    },
+    {
+      "id": 199,
+      "tipo": "Prueba",
+      "texto": "Eat a raw egg"
+    },
+    {
+      "id": 200,
+      "tipo": "Prueba",
+      "texto": "Eat a dry pack of noodles"
+    },
+    {
+      "id": 201,
+      "tipo": "Prueba",
+      "texto": "Floss the teeth of the person to your left"
+    },
+    {
+      "id": 202,
+      "tipo": "Prueba",
+      "texto": "Take a shower fully clothed"
+    },
+    {
+      "id": 203,
+      "tipo": "Prueba",
+      "texto": "Speak like Tony Montana for the next 10 minutes"
+    },
+    {
+      "id": 204,
+      "tipo": "Prueba",
+      "texto": "Eat toilet paper"
+    },
+    {
+      "id": 205,
+      "tipo": "Prueba",
+      "texto": "Snort a line of sugar"
+    },
+    {
+      "id": 206,
+      "tipo": "Prueba",
+      "texto": "Eat some soap"
+    },
+    {
+      "id": 207,
+      "tipo": "Prueba",
+      "texto": "Twerk on a handstand"
+    },
+    {
+      "id": 208,
+      "tipo": "Prueba",
+      "texto": "Let someone give you haircut with their weak hand"
+    },
+    {
+      "id": 209,
+      "tipo": "Prueba",
+      "texto": "Make a freestyle rap song about each person in the group"
+    },
+    {
+      "id": 210,
+      "tipo": "Prueba",
+      "texto": "Lick someone’s foot"
+    },
+    {
+      "id": 211,
+      "tipo": "Prueba",
+      "texto": "Call someone random; and talk freaky to them"
+    },
+    {
+      "id": 212,
+      "tipo": "Prueba",
+      "texto": "Email one of your professor’s and tell them you love them"
+    },
+    {
+      "id": 213,
+      "tipo": "Prueba",
+      "texto": "Lick the wall"
+    },
+    {
+      "id": 214,
+      "tipo": "Prueba",
+      "texto": "Take two shots of a dark and a light liquor ( 4 shots total)"
+    },
+    {
+      "id": 215,
+      "tipo": "Prueba",
+      "texto": "Let someone lick a full circle around your face"
+    },
+    {
+      "id": 216,
+      "tipo": "Prueba",
+      "texto": "Stand in the corner in “time out”; not say a word for the next 3 rounds"
+    },
+    {
+      "id": 217,
+      "tipo": "Prueba",
+      "texto": "Make out with someone’s boyfriend or girlfriend"
+    },
+    {
+      "id": 218,
+      "tipo": "Prueba",
+      "texto": "Chug a whole beer in 15 seconds"
+    },
+    {
+      "id": 219,
+      "tipo": "Prueba",
+      "texto": "Sit in the trash can for the next round"
+    },
+    {
+      "id": 220,
+      "tipo": "Prueba",
+      "texto": "Chug an entire beer; then spin around for 15 seconds; after that try to run to the door"
+    },
+    {
+      "id": 221,
+      "tipo": "Prueba",
+      "texto": "Take 2 shots and do a cartwheel"
+    },
+    {
+      "id": 222,
+      "tipo": "Prueba",
+      "texto": "Call your parents and tell them you’re dropping out"
+    },
+    {
+      "id": 223,
+      "tipo": "Verdad",
+      "texto": "What is the most annoying thing that your mom does?"
+    },
+    {
+      "id": 224,
+      "tipo": "Verdad",
+      "texto": "What is the most annoying thing that your dad does?"
+    },
+    {
+      "id": 225,
+      "tipo": "Verdad",
+      "texto": "Have you ever snuck anyone into to the house?"
+    },
+    {
+      "id": 226,
+      "tipo": "Verdad",
+      "texto": "How many times have you snuck out of the house?"
+    },
+    {
+      "id": 227,
+      "tipo": "Verdad",
+      "texto": "What is the best dish that you mom makes for dinner?"
+    },
+    {
+      "id": 228,
+      "tipo": "Verdad",
+      "texto": "If you could change any of the house rules; what would it be?"
+    },
+    {
+      "id": 229,
+      "tipo": "Verdad",
+      "texto": "Would you rather be a horse or a cow?"
+    },
+    {
+      "id": 230,
+      "tipo": "Verdad",
+      "texto": "What is the funniest thing your grandparents have ever said?"
+    },
+    {
+      "id": 231,
+      "tipo": "Verdad",
+      "texto": "If you could get rid of one household chore; what would it be?"
+    },
+    {
+      "id": 232,
+      "tipo": "Verdad",
+      "texto": "What is your favourite cartoon from your generation?"
+    },
+    {
+      "id": 233,
+      "tipo": "Verdad",
+      "texto": "What is your favourite childhood song?"
+    },
+    {
+      "id": 234,
+      "tipo": "Verdad",
+      "texto": "What is your favourite board game to play with your family?"
+    },
+    {
+      "id": 235,
+      "tipo": "Verdad",
+      "texto": "If you could put one person in your family on mute for a day; who would it be?"
+    },
+    {
+      "id": 236,
+      "tipo": "Verdad",
+      "texto": "At what age did you learn to ride a bike?"
+    },
+    {
+      "id": 237,
+      "tipo": "Verdad",
+      "texto": "Do you know how to swim?"
+    },
+    {
+      "id": 238,
+      "tipo": "Verdad",
+      "texto": "Describe your dream home"
+    },
+    {
+      "id": 239,
+      "tipo": "Verdad",
+      "texto": "What is the funniest dream that you have ever had?"
+    },
+    {
+      "id": 240,
+      "tipo": "Verdad",
+      "texto": "Have you ever had a dream about one of your relatives?"
+    },
+    {
+      "id": 241,
+      "tipo": "Verdad",
+      "texto": "Who is your celebrity husband or wife?"
+    },
+    {
+      "id": 242,
+      "tipo": "Verdad",
+      "texto": "Who taught you how to tie your shoes?"
+    },
+    {
+      "id": 243,
+      "tipo": "Verdad",
+      "texto": "What is the longest that you have ever been without taking a shower?"
+    },
+    {
+      "id": 244,
+      "tipo": "Verdad",
+      "texto": "Have you ever worn the same clothes for more than three days?"
+    },
+    {
+      "id": 245,
+      "tipo": "Verdad",
+      "texto": "What is your favourite holiday and why?"
+    },
+    {
+      "id": 246,
+      "tipo": "Verdad",
+      "texto": "If you could be any dinosaur; which would it be?"
+    },
+    {
+      "id": 247,
+      "tipo": "Verdad",
+      "texto": "How long could you without eating your favourite food?"
+    },
+    {
+      "id": 248,
+      "tipo": "Verdad",
+      "texto": "Who in your family tells the corniest jokes?"
+    },
+    {
+      "id": 249,
+      "tipo": "Verdad",
+      "texto": "Would you rather be a bumblebee or a slug?"
+    },
+    {
+      "id": 250,
+      "tipo": "Verdad",
+      "texto": "Have you ever eaten a worm?"
+    },
+    {
+      "id": 251,
+      "tipo": "Verdad",
+      "texto": "Have you ever picked your nose when you thought no one was looking?"
+    },
+    {
+      "id": 252,
+      "tipo": "Verdad",
+      "texto": "If you could be any super villain; who would you be?"
+    },
+    {
+      "id": 253,
+      "tipo": "Prueba",
+      "texto": "Put peanut butter on your nose; and try to to lick it off"
+    },
+    {
+      "id": 254,
+      "tipo": "Prueba",
+      "texto": "Do a headstand"
+    },
+    {
+      "id": 255,
+      "tipo": "Prueba",
+      "texto": "Stand on one leg for the next three rounds"
+    },
+    {
+      "id": 256,
+      "tipo": "Prueba",
+      "texto": "Cross your eyes and walk to front yard and back"
+    },
+    {
+      "id": 257,
+      "tipo": "Prueba",
+      "texto": "Do an impression of your favourite relative; do not stop until everyone can guess who you are"
+    },
+    {
+      "id": 258,
+      "tipo": "Prueba",
+      "texto": "Act like the family pet until it is your turn again"
+    },
+    {
+      "id": 259,
+      "tipo": "Prueba",
+      "texto": "For the next 2 rounds; you must do whatever the person to your right says"
+    },
+    {
+      "id": 260,
+      "tipo": "Prueba",
+      "texto": "Quack and walk like a duck"
+    },
+    {
+      "id": 261,
+      "tipo": "Prueba",
+      "texto": "Do your best impression of Mickey Mouse"
+    },
+    {
+      "id": 262,
+      "tipo": "Prueba",
+      "texto": "Spin around for 10 seconds and run out the mailbox and back"
+    },
+    {
+      "id": 263,
+      "tipo": "Prueba",
+      "texto": "Balance a spoon on your nose until the next round"
+    },
+    {
+      "id": 264,
+      "tipo": "Prueba",
+      "texto": "Do your best evil laugh; as loud as you can"
+    },
+    {
+      "id": 265,
+      "tipo": "Prueba",
+      "texto": "Make a funny face; take a selfie; and post it on Facebook"
+    },
+    {
+      "id": 266,
+      "tipo": "Prueba",
+      "texto": "Call a random person and sing happy birthday to them"
+    },
+    {
+      "id": 267,
+      "tipo": "Prueba",
+      "texto": "Blindfolded; go to the kitchen and make sandwich"
+    },
+    {
+      "id": 268,
+      "tipo": "Prueba",
+      "texto": "Give the person to your left a wet willy"
+    },
+    {
+      "id": 269,
+      "tipo": "Prueba",
+      "texto": "Wiggle your ears without using your hands"
+    },
+    {
+      "id": 270,
+      "tipo": "Prueba",
+      "texto": "Talk like a baby for the next 3 rounds"
+    },
+    {
+      "id": 271,
+      "tipo": "Prueba",
+      "texto": "Record yourself doing the silliest dance you can do; and post it to Facebook"
+    },
+    {
+      "id": 272,
+      "tipo": "Prueba",
+      "texto": "Tell a funny knock knock joke; everyone must laugh"
+    },
+    {
+      "id": 273,
+      "tipo": "Prueba",
+      "texto": "Hold your breath for 15 seconds"
+    },
+    {
+      "id": 274,
+      "tipo": "Prueba",
+      "texto": "Do a headstand while you sing your favourite nursery rhyme"
+    },
+    {
+      "id": 275,
+      "tipo": "Prueba",
+      "texto": "Try to spin on your head like a break dancer"
+    },
+    {
+      "id": 276,
+      "tipo": "Prueba",
+      "texto": "Balance the object to your left on your head for the next three rounds"
+    },
+    {
+      "id": 277,
+      "tipo": "Prueba",
+      "texto": "Do your best hula dance"
+    },
+    {
+      "id": 278,
+      "tipo": "Prueba",
+      "texto": "Tapdance on the couch"
+    },
+    {
+      "id": 279,
+      "tipo": "Prueba",
+      "texto": "Stand up and spin around for the next two rounds"
+    },
+    {
+      "id": 280,
+      "tipo": "Prueba",
+      "texto": "Do 150 jumping jacks"
+    },
+    {
+      "id": 281,
+      "tipo": "Prueba",
+      "texto": "Use the person to your right’s stomach as a drum and make upa tribal dance"
+    },
+    {
+      "id": 282,
+      "tipo": "Prueba",
+      "texto": "Stand like a flamingo for the next four rounds"
+    },
+    {
+      "id": 283,
+      "tipo": "Verdad",
+      "texto": "Who is your best looking teacher that you have ever had?"
+    },
+    {
+      "id": 284,
+      "tipo": "Verdad",
+      "texto": "Have you ever cheated on any test?"
+    },
+    {
+      "id": 285,
+      "tipo": "Verdad",
+      "texto": "Who is your crush at school?"
+    },
+    {
+      "id": 286,
+      "tipo": "Verdad",
+      "texto": "Who is the most annoying person you know?"
+    },
+    {
+      "id": 287,
+      "tipo": "Verdad",
+      "texto": "Have you ever pulled a prank on your teacher?"
+    },
+    {
+      "id": 288,
+      "tipo": "Verdad",
+      "texto": "Have you ever lied to your parents about what you were doingafter school?"
+    },
+    {
+      "id": 289,
+      "tipo": "Verdad",
+      "texto": "Have you ever blamed something that you have done on one of your siblings?"
+    },
+    {
+      "id": 290,
+      "tipo": "Verdad",
+      "texto": "What college do you plan on going to?"
+    },
+    {
+      "id": 291,
+      "tipo": "Verdad",
+      "texto": "Are you still a virgin?"
+    },
+    {
+      "id": 292,
+      "tipo": "Verdad",
+      "texto": "How many boyfriends (or girlfriends) have you had?"
+    },
+    {
+      "id": 293,
+      "tipo": "Verdad",
+      "texto": "Have you ever been kissed yet? If so; who was your best kiss?"
+    },
+    {
+      "id": 294,
+      "tipo": "Verdad",
+      "texto": "What is your biggest pet peeve?"
+    },
+    {
+      "id": 295,
+      "tipo": "Verdad",
+      "texto": "What is the best vacation you’ve ever been on?"
+    },
+    {
+      "id": 296,
+      "tipo": "Verdad",
+      "texto": "Have you ever told one of your best friend’s secrets; even if you said you wouldn’t?"
+    },
+    {
+      "id": 297,
+      "tipo": "Verdad",
+      "texto": "Have you ever had a crush on someone that your best friend has dated?"
+    },
+    {
+      "id": 298,
+      "tipo": "Verdad",
+      "texto": "What is the most annoying thing that one of your siblings has done?"
+    },
+    {
+      "id": 299,
+      "tipo": "Verdad",
+      "texto": "Do you have a job? If so; what is your favourite thing aboutit?"
+    },
+    {
+      "id": 300,
+      "tipo": "Verdad",
+      "texto": "If you were a billionaire; what would you spend your time doing?"
+    },
+    {
+      "id": 301,
+      "tipo": "Verdad",
+      "texto": "What is the longest time you have ever been grounded?"
+    },
+    {
+      "id": 302,
+      "tipo": "Verdad",
+      "texto": "What is the longest time that you think you could go withoutyour cell phone?"
+    },
+    {
+      "id": 303,
+      "tipo": "Verdad",
+      "texto": "What is the most expensive thing you own?"
+    },
+    {
+      "id": 304,
+      "tipo": "Verdad",
+      "texto": "If you had the choice to live on your own right now; would you do it?"
+    },
+    {
+      "id": 305,
+      "tipo": "Verdad",
+      "texto": "Can you see yourself being married to the creepiest kid a your school someday?"
+    },
+    {
+      "id": 306,
+      "tipo": "Verdad",
+      "texto": "Would you ever get on a dating website?"
+    },
+    {
+      "id": 307,
+      "tipo": "Verdad",
+      "texto": "Have you ever watched an adult film without your parents knowing?"
+    },
+    {
+      "id": 308,
+      "tipo": "Verdad",
+      "texto": "If you could own your own business one day; what would it be?"
+    },
+    {
+      "id": 309,
+      "tipo": "Verdad",
+      "texto": "What is your favourite kind of clothing?"
+    },
+    {
+      "id": 310,
+      "tipo": "Verdad",
+      "texto": "What celebrity are you obsessed with?"
+    },
+    {
+      "id": 311,
+      "tipo": "Verdad",
+      "texto": "What is the funniest youtube video you have ever seen?"
+    },
+    {
+      "id": 312,
+      "tipo": "Verdad",
+      "texto": "Who is the worst teacher you have ever had; why?"
+    },
+    {
+      "id": 313,
+      "tipo": "Verdad",
+      "texto": "What is your favourite sports team?"
+    },
+    {
+      "id": 314,
+      "tipo": "Verdad",
+      "texto": "What he craziest thing that you have ever done without yourparents knowing?"
+    },
+    {
+      "id": 315,
+      "tipo": "Verdad",
+      "texto": "What would you do if your parents left the house to you fora whole week?"
+    },
+    {
+      "id": 316,
+      "tipo": "Verdad",
+      "texto": "What is your favourite song that is out right now?"
+    },
+    {
+      "id": 317,
+      "tipo": "Verdad",
+      "texto": "Could you go two months without talking to your friends?"
+    },
+    {
+      "id": 318,
+      "tipo": "Prueba",
+      "texto": "With powder in your hand; smack the person to you left on thecheek"
+    },
+    {
+      "id": 319,
+      "tipo": "Prueba",
+      "texto": "Do a handstand on the wall for the next two rounds"
+    },
+    {
+      "id": 320,
+      "tipo": "Prueba",
+      "texto": "Kiss a pillow until it is your turn again"
+    },
+    {
+      "id": 321,
+      "tipo": "Prueba",
+      "texto": "Do your best chicken dance outside on the lawn"
+    },
+    {
+      "id": 322,
+      "tipo": "Prueba",
+      "texto": "Eat three spoonfuls of mustard"
+    },
+    {
+      "id": 323,
+      "tipo": "Prueba",
+      "texto": "Using only your elbows; make a Facebook status and post it"
+    },
+    {
+      "id": 324,
+      "tipo": "Prueba",
+      "texto": "Text your crush and tell them how much you like them"
+    },
+    {
+      "id": 325,
+      "tipo": "Prueba",
+      "texto": "Send an email to one of your teachers; telling them about howyour day is going"
+    },
+    {
+      "id": 326,
+      "tipo": "Prueba",
+      "texto": "Smell pepper and try not to sneeze"
+    },
+    {
+      "id": 327,
+      "tipo": "Prueba",
+      "texto": "Ask your crush out on a date"
+    },
+    {
+      "id": 328,
+      "tipo": "Prueba",
+      "texto": "Blindfolded; spin around 10 times and walk down the street and back"
+    },
+    {
+      "id": 329,
+      "tipo": "Prueba",
+      "texto": "Take a selfie with a broom and post it on all of your socialmedia"
+    },
+    {
+      "id": 330,
+      "tipo": "Prueba",
+      "texto": "Put the socks of the person to your right in your mouth"
+    },
+    {
+      "id": 331,
+      "tipo": "Prueba",
+      "texto": "Do an impression of your most annoying teacher"
+    },
+    {
+      "id": 332,
+      "tipo": "Prueba",
+      "texto": "Prank call a local restaurant and order one of everything onthe menu"
+    },
+    {
+      "id": 333,
+      "tipo": "Prueba",
+      "texto": "Eat half a stick of butter"
+    },
+    {
+      "id": 334,
+      "tipo": "Prueba",
+      "texto": "Try to tickle yourself"
+    },
+    {
+      "id": 335,
+      "tipo": "Prueba",
+      "texto": "Go rinse your mouth out with soap or a minute; then blow soap bubbles from your mouth until the soap runs out"
+    },
+    {
+      "id": 336,
+      "tipo": "Prueba",
+      "texto": "Do a cannonball onto the couch"
+    },
+    {
+      "id": 337,
+      "tipo": "Prueba",
+      "texto": "Eat as much hot sauce as you can"
+    },
+    {
+      "id": 338,
+      "tipo": "Prueba",
+      "texto": "Give person to your left a kiss on the forehead"
+    },
+    {
+      "id": 339,
+      "tipo": "Prueba",
+      "texto": "Share a shirt with the person to your right for the next 3 rounds"
+    },
+    {
+      "id": 340,
+      "tipo": "Prueba",
+      "texto": "Hold your shoe up to your nose until it is your turn again"
+    },
+    {
+      "id": 341,
+      "tipo": "Prueba",
+      "texto": "Go outside and sing your national anthem as loud as you can"
+    },
+    {
+      "id": 342,
+      "tipo": "Prueba",
+      "texto": "Fold yourself into a pretzel"
+    },
+    {
+      "id": 343,
+      "tipo": "Prueba",
+      "texto": "Run in place or the next three rounds"
+    },
+    {
+      "id": 344,
+      "tipo": "Prueba",
+      "texto": "Call and yell at one of your parents and then tell them theyare grounded for a week"
+    },
+    {
+      "id": 345,
+      "tipo": "Prueba",
+      "texto": "Take a selfie with your finger up your nose and post it to all your social media"
+    },
+    {
+      "id": 346,
+      "tipo": "Prueba",
+      "texto": "Do your best belly dance"
+    },
+    {
+      "id": 347,
+      "tipo": "Prueba",
+      "texto": "Walk on your hands from one side of the room to the other"
+    },
+    {
+      "id": 348,
+      "tipo": "Prueba",
+      "texto": "Make up a three minute song about the first thing that comesto your mind"
+    },
+    {
+      "id": 349,
+      "tipo": "Prueba",
+      "texto": "Act like a pig until it is your turn again"
+    },
+    {
+      "id": 350,
+      "tipo": "Prueba",
+      "texto": "Put makeup on with no mirror"
+    },
+    {
+      "id": 351,
+      "tipo": "Verdad",
+      "texto": "What is your favourite part of my body?"
+    },
+    {
+      "id": 352,
+      "tipo": "Verdad",
+      "texto": "How long have you gone without showering?"
+    },
+    {
+      "id": 353,
+      "tipo": "Verdad",
+      "texto": "What don't you want anyone in this group to ask you? (Be sure to keep it in mind for future rounds!)"
+    },
+    {
+      "id": 354,
+      "tipo": "Verdad",
+      "texto": "Have you ever told a lie during a game of Verdad or Prueba? What was it and why?"
+    },
+    {
+      "id": 355,
+      "tipo": "Verdad",
+      "texto": "Have you ever had a crush on anyone here?"
+    },
+    {
+      "id": 356,
+      "tipo": "Verdad",
+      "texto": "Have you ever stolen anything?"
+    },
+    {
+      "id": 357,
+      "tipo": "Verdad",
+      "texto": "What's your scariest nightmare?"
+    },
+    {
+      "id": 358,
+      "tipo": "Verdad",
+      "texto": "What do you think is your biggest physical flaw?"
+    },
+    {
+      "id": 359,
+      "tipo": "Verdad",
+      "texto": "Have you ever gone skinny dipping?"
+    },
+    {
+      "id": 360,
+      "tipo": "Verdad",
+      "texto": "What kind of pajamas do you wear to bed?"
+    },
+    {
+      "id": 361,
+      "tipo": "Verdad",
+      "texto": "What's the dumbest thing you've ever done on a Prueba?"
+    },
+    {
+      "id": 362,
+      "tipo": "Verdad",
+      "texto": "What color is your underwear?"
+    },
+    {
+      "id": 363,
+      "tipo": "Verdad",
+      "texto": "Have you ever peed in the swimming pool?"
+    },
+    {
+      "id": 364,
+      "tipo": "Verdad",
+      "texto": "Where is the strangest place you've used the bathroom?"
+    },
+    {
+      "id": 365,
+      "tipo": "Verdad",
+      "texto": "Are you scared of dying? Why?"
+    },
+    {
+      "id": 366,
+      "tipo": "Verdad",
+      "texto": "What is your biggest fear?"
+    },
+    {
+      "id": 367,
+      "tipo": "Verdad",
+      "texto": "What happened on the worst day of your life?"
+    },
+    {
+      "id": 368,
+      "tipo": "Verdad",
+      "texto": "Have you ever climbed a tree?"
+    },
+    {
+      "id": 369,
+      "tipo": "Verdad",
+      "texto": "Have you ever sang and danced in the grocery store?"
+    },
+    {
+      "id": 370,
+      "tipo": "Verdad",
+      "texto": "If you could be a superhero; what would your power be?"
+    },
+    {
+      "id": 371,
+      "tipo": "Verdad",
+      "texto": "What would you do if you were invisible for a day?"
+    },
+    {
+      "id": 372,
+      "tipo": "Verdad",
+      "texto": "If your life were made into a movie who would play you?"
+    },
+    {
+      "id": 373,
+      "tipo": "Verdad",
+      "texto": "What's your biggest pet peeve?"
+    },
+    {
+      "id": 374,
+      "tipo": "Verdad",
+      "texto": "What is your special talent?"
+    },
+    {
+      "id": 375,
+      "tipo": "Verdad",
+      "texto": "What's the best meal you've ever had?"
+    },
+    {
+      "id": 376,
+      "tipo": "Verdad",
+      "texto": "What's you favorite Disney movie and why?"
+    },
+    {
+      "id": 377,
+      "tipo": "Verdad",
+      "texto": "What would you do with a million dollars if you ever won the lottery?"
+    },
+    {
+      "id": 378,
+      "tipo": "Verdad",
+      "texto": "Who was your first crush; or who is your current crush?"
+    },
+    {
+      "id": 379,
+      "tipo": "Verdad",
+      "texto": "How old were you when you had your first kiss?"
+    },
+    {
+      "id": 380,
+      "tipo": "Verdad",
+      "texto": "What would you do if your current boyfriend/girlfriend ended things right now?"
+    },
+    {
+      "id": 381,
+      "tipo": "Verdad",
+      "texto": "Have you ever cheated on a boyfriend/girlfriend?"
+    },
+    {
+      "id": 382,
+      "tipo": "Verdad",
+      "texto": "Have you ever been cheated on by a boyfriend/girlfriend?"
+    },
+    {
+      "id": 383,
+      "tipo": "Verdad",
+      "texto": "If you could go on a date with anyone in the room who would it be?"
+    },
+    {
+      "id": 384,
+      "tipo": "Verdad",
+      "texto": "What is the most awkward moment you've ever had on a date?"
+    },
+    {
+      "id": 385,
+      "tipo": "Verdad",
+      "texto": "If you could kiss a celebrity without it impacting your current relationship; who would it be?"
+    },
+    {
+      "id": 386,
+      "tipo": "Verdad",
+      "texto": "What would you do on the perfect first date?"
+    },
+    {
+      "id": 387,
+      "tipo": "Verdad",
+      "texto": "Of all the people you know; who has the most beautiful eyes?"
+    },
+    {
+      "id": 388,
+      "tipo": "Verdad",
+      "texto": "If you could marry one teacher in the school; who would you pick and why?"
+    },
+    {
+      "id": 389,
+      "tipo": "Verdad",
+      "texto": "What were your first impressions of me (the person asking the question)?"
+    },
+    {
+      "id": 390,
+      "tipo": "Verdad",
+      "texto": "What personality traits would cause you to end a friendship?"
+    },
+    {
+      "id": 391,
+      "tipo": "Verdad",
+      "texto": "Would you go behind a friend's back with a crush?"
+    },
+    {
+      "id": 392,
+      "tipo": "Verdad",
+      "texto": "Have you ever lied to your best friend?"
+    },
+    {
+      "id": 393,
+      "tipo": "Verdad",
+      "texto": "Would you ever cheat off a friend's paper?"
+    },
+    {
+      "id": 394,
+      "tipo": "Verdad",
+      "texto": "How many best friends have you had during your lifetime?"
+    },
+    {
+      "id": 395,
+      "tipo": "Verdad",
+      "texto": "If you were stuck on a deserted island which friend would you want with you?"
+    },
+    {
+      "id": 396,
+      "tipo": "Verdad",
+      "texto": "Which person here knows something about you that you wouldn't want revealed?"
+    },
+    {
+      "id": 397,
+      "tipo": "Verdad",
+      "texto": "What are the three qualities you feel are most important in a friend?"
+    },
+    {
+      "id": 398,
+      "tipo": "Verdad",
+      "texto": "What would make you lie for your friend?"
+    },
+    {
+      "id": 399,
+      "tipo": "Prueba",
+      "texto": "Drink a mystery brew concocted by the rest of the group. Make sure there is nothing harmful or dangerous in the concoction and set a reasonable limit of sips the person must take to complete the Prueba."
+    },
+    {
+      "id": 400,
+      "tipo": "Prueba",
+      "texto": "Eat a mouthful of crackers and try to whistle."
+    },
+    {
+      "id": 401,
+      "tipo": "Prueba",
+      "texto": "Crack an egg on your head."
+    },
+    {
+      "id": 402,
+      "tipo": "Prueba",
+      "texto": "Combine two foods that should never go together; such as pickles and peanut butter or applesauce and olives; and eat a huge bite."
+    },
+    {
+      "id": 403,
+      "tipo": "Prueba",
+      "texto": "Stand next to the refrigerator (or food pack if you're camping); close your eyes; and randomly point to something inside. Keep your eyes shut while someone from the group helps you eat some of the food you picked."
+    },
+    {
+      "id": 404,
+      "tipo": "Prueba",
+      "texto": "Pretend to be a waiter or waitress and take snack orders from everyone in the group. Bring them the food they ordered and then check back to see if they like it."
+    },
+    {
+      "id": 405,
+      "tipo": "Prueba",
+      "texto": "Eat a snack without using your hands."
+    },
+    {
+      "id": 406,
+      "tipo": "Prueba",
+      "texto": "Exchange shirts with the person next to you for the next round of questions."
+    },
+    {
+      "id": 407,
+      "tipo": "Prueba",
+      "texto": "Wear a funny hat on your head for the next three rounds of questions."
+    },
+    {
+      "id": 408,
+      "tipo": "Prueba",
+      "texto": "Wear your pants backward for the rest of the game."
+    },
+    {
+      "id": 409,
+      "tipo": "Prueba",
+      "texto": "Take off your socks and wear them on your hands for the rest of the evening."
+    },
+    {
+      "id": 410,
+      "tipo": "Prueba",
+      "texto": "Make a headdress out of toilet paper and pose for photos."
+    },
+    {
+      "id": 411,
+      "tipo": "Prueba",
+      "texto": "Switch clothing with someone of the opposite gender. Change in private; but wear the clothes for the next four rounds."
+    },
+    {
+      "id": 412,
+      "tipo": "Prueba",
+      "texto": "Get a large garbage bag and cut the bottom open. Put it on like a skirt and tie the ties around your waist. Act like you are modeling couture on the catwalk."
+    },
+    {
+      "id": 413,
+      "tipo": "Prueba",
+      "texto": "Take 10 minutes to come up with an outfit that has every color of the rainbow. Borrow things from friends as you need to."
+    },
+    {
+      "id": 414,
+      "tipo": "Prueba",
+      "texto": "Set up a tea party between any of the stuffed animals in the house. Invite the girls in your group to join."
+    },
+    {
+      "id": 415,
+      "tipo": "Prueba",
+      "texto": "Tell them they have to do a logic puzzle and if they don't finish it within 3 minutes - you will give them an embarrasing Prueba!"
+    },
+    {
+      "id": 416,
+      "tipo": "Prueba",
+      "texto": "Say the alphabet backwards in a British accent."
+    },
+    {
+      "id": 417,
+      "tipo": "Prueba",
+      "texto": "Run around the room imitating a monkey."
+    },
+    {
+      "id": 418,
+      "tipo": "Prueba",
+      "texto": "Give someone in the group a piggyback ride around the room."
+    },
+    {
+      "id": 419,
+      "tipo": "Prueba",
+      "texto": "Make up a rap about the person to your right."
+    },
+    {
+      "id": 420,
+      "tipo": "Prueba",
+      "texto": "If there is a pet at the event; try to hold the pet for the rest of the night."
+    },
+    {
+      "id": 421,
+      "tipo": "Prueba",
+      "texto": "Pretend that you're swimming underwater for the next three rounds of questions. Don't forget to make bubbling noises and come up for air from time to time."
+    },
+    {
+      "id": 422,
+      "tipo": "Prueba",
+      "texto": "Everything you say for the rest of the game has to rhyme."
+    },
+    {
+      "id": 423,
+      "tipo": "Prueba",
+      "texto": "Repeat everything another player says for the next three rounds of the game."
+    },
+    {
+      "id": 424,
+      "tipo": "Prueba",
+      "texto": "Sing instead of speaking for the next two rounds of the game."
+    }
+  ]}

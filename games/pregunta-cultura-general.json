@@ -1,0 +1,47 @@
+[
+    {
+        "pregunta": "Hotel Bintang 5 Jakarta",
+        "respuesta": [
+            "hilton",
+            "mandarin",
+            "aryaduta",
+            "borobudur",
+            "sahid"
+        ]
+    },
+    {
+        "pregunta": "Perlengkapan Sekolah Anak Tk",
+        "respuesta": [
+            "pensil",
+            "botol minum",
+            "pensil warna",
+            "sapu tangan",
+            "hapusan"
+        ]
+    },
+    {
+        "pregunta": "Disaat Apa Saja Orang Membawa Kamera",
+        "respuesta": [
+            "ulang tahun",
+            "pesta",
+            "pernikahan",
+            "piknik",
+            "wisuda",
+            "reuni",
+            "arisan",
+            "gathering"
+        ]
+    },
+    {
+        "pregunta": "Warna Cat Rambut",
+        "respuesta": [
+            "merah",
+            "kuning",
+            "coklat",
+            "hijau",
+            "ungu",
+            "emas",
+            "perak"
+        ]
+    }
+]
