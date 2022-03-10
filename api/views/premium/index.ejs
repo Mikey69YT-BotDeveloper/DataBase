@@ -1,0 +1,37 @@
+<section id="about">
+    <div class="row about-how">
+        <p> </p>
+        <center>
+            <%- include('../layouts/msg')  %> 
+            <%- include('../layouts/errors')  %> 
+        </center>
+        <h1 class="intro-header">Premium Dashboard</h1>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-twelve"  style="font-size: 14px;">
+            <div class="plan-block" data-aos="fade-up"> 
+                <div class="row pricing-content">
+                    <center>
+                        <h4>Hi Owner, You want to delete or add Premium ?</h4>
+                        <a href="/premium/add" class="button button-primary cta">Add Premium</a>
+                        <a href="/premium/delete" class="button button-primary cta">Delete Premium</a>
+                        <a href="/premium/limit" class="button button-primary cta">Reset One Limit</a>
+                    </center>
+                </div>
+            </div>
+            <p></p>
+            <div class="plan-block" data-aos="fade-up"> 
+                <div class="row pricing-content">
+                    <center>
+                        <h4>You Want to Reset All Limit and Today Request ?</h4>
+                        <form method="POST" action="/premium/resetall">
+                            <div>
+                                <input style="font-family:Arial, FontAwesome" name="token" type="text" class="form-control" placeholder="&#xf084;   Token" required>
+                            </div>
+                            <button type="submit" class="button button-primary">Reset All Limit</button>
+                        </form>
+                    </center>
+                </div>
+        </div> 
+    </div> 
+</section> 
