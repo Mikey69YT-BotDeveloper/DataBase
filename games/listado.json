@@ -1,0 +1,2486 @@
+[
+  {
+    "index": 0,
+    "pregunta": "Matahari tenggelam di sebelah…",
+    "respuesta": "Gawat",
+    "descripcion": "Gawat kalau matahari tenggelam di sebelah kita"
+  },
+  {
+    "index": 1,
+    "pregunta": "Galang menyimpan buku di…",
+    "respuesta": "Mas",
+    "descripcion": "Bukunya dimas dipinjam galang kemarin sore."
+  },
+  {
+    "index": 2,
+    "pregunta": "Bersatu kita teguh bercerai kita——-",
+    "respuesta": "Sedih",
+    "descripcion": "Siapa yang gak sedih cerai sama istri??"
+  },
+  {
+    "index": 3,
+    "pregunta": "Makanan yang dibungkus daun pisang?",
+    "respuesta": "Lontong",
+    "descripcion": "Gampang kan? suka ga sama lontong?"
+  },
+  {
+    "index": 4,
+    "pregunta": "Apabila mengendarai mobil wajib bawa",
+    "respuesta": "Satu",
+    "descripcion": "Kalo bawa 2 gimana mengendarainya"
+  },
+  {
+    "index": 5,
+    "pregunta": "Mawar melati semuanya…",
+    "respuesta": "Bunga",
+    "descripcion": "Kalo bukan bunga apa coba, hewan?"
+  },
+  {
+    "index": 6,
+    "pregunta": "Jangan membuang tisu di…",
+    "respuesta": "Tempatnya",
+    "descripcion": "Masih di tempatnya kok di buang"
+  },
+  {
+    "index": 7,
+    "pregunta": "Ketika _____ orang biasanya makan.",
+    "respuesta": "Marah",
+    "descripcion": "Orang marah apa enggak ya pasti makan.."
+  },
+  {
+    "index": 8,
+    "pregunta": "Burung adalah hewan yang bisa..",
+    "respuesta": "Temenan",
+    "descripcion": "Kan kalo terbang rame-rame kan sama temennya.."
+  },
+  {
+    "index": 9,
+    "pregunta": "Hewan yang suka buka mulut lebar",
+    "respuesta": "Kenaflu",
+    "descripcion": "Itu karena ga bisa napas idungnya mampet.."
+  },
+  {
+    "index": 10,
+    "pregunta": "Hewan yang berubah warna kalau ada musuhnya?",
+    "respuesta": "Bengong",
+    "descripcion": "Karena, musuhnya bengong lihat hewan berubah warna"
+  },
+  {
+    "index": 11,
+    "pregunta": "Artis wanita yang punya kumis tipis",
+    "respuesta": "Ihkumisan",
+    "descripcion": "Ih kok kumisan sih.."
+  },
+  {
+    "index": 12,
+    "pregunta": "Pintu biasa di….",
+    "respuesta": "Tekan",
+    "descripcion": "Klau anda biasa keatm kan pin ditekan"
+  },
+  {
+    "index": 13,
+    "pregunta": "Lebak bulus",
+    "respuesta": "Terkenal",
+    "descripcion": "Karena lebak bulus,cililitan semua orang tau maka nya terkenal"
+  },
+  {
+    "index": 14,
+    "pregunta": "Seorang matador bisa terluka karena diseruduk..",
+    "respuesta": "Biskota",
+    "descripcion": "Mau banteng, mau bis kota, tetep aja bisa terluka.."
+  },
+  {
+    "index": 15,
+    "pregunta": "Cermin jika di lap jadi…",
+    "respuesta": "Cermin",
+    "descripcion": "Ya masa berubah, yaal tetap cermin"
+  },
+  {
+    "index": 16,
+    "pregunta": "Batik merupakan produk asli dari…",
+    "respuesta": "Manusia",
+    "descripcion": "Sejauh ini belum ada mahluk lain yang bisa"
+  },
+  {
+    "index": 17,
+    "pregunta": "Kendaraan yang suka dipake tukang ojek?",
+    "respuesta": "Mogok",
+    "descripcion": "Motor emang suka mogok"
+  },
+  {
+    "index": 18,
+    "pregunta": "Binatang apa yang ga bisa bergerak?",
+    "respuesta": "Paus",
+    "descripcion": "Kalau game di paus(e) kan berhenti main nya"
+  },
+  {
+    "index": 19,
+    "pregunta": "Sehabis olahraga",
+    "respuesta": "Airminum",
+    "descripcion": "Abis olahraga pasti haus kan"
+  },
+  {
+    "index": 20,
+    "pregunta": "Di tiup angin berkibar di setiap negara",
+    "respuesta": "Jemuran",
+    "descripcion": "Disetiap negara orang menjemur pakaiannya"
+  },
+  {
+    "index": 21,
+    "pregunta": "Kalo haus minum",
+    "respuesta": "Aja",
+    "descripcion": "Minum aja ntar juga ga aus"
+  },
+  {
+    "index": 22,
+    "pregunta": "Yang bikin harum",
+    "respuesta": "Pfffht",
+    "descripcion": "Kan bunyi pengharum ruangan pffht"
+  },
+  {
+    "index": 23,
+    "pregunta": "Hayam wuruk memerintah kerajaan?",
+    "respuesta": "Jamandulu",
+    "descripcion": "Ya iyalah… masa jaman sekarang"
+  },
+  {
+    "index": 24,
+    "pregunta": "Malam apa yang paling indah?",
+    "respuesta": "Malamarkamu",
+    "descripcion": "Eaa…eaa…eaa.."
+  },
+  {
+    "index": 25,
+    "pregunta": "Makanan khas indonesia dari kedelai yang sudah mendunia",
+    "respuesta": "Lezat",
+    "descripcion": "Memang tempe lezat nan bergizi"
+  },
+  {
+    "index": 26,
+    "pregunta": "Hewan tinggal disawah",
+    "respuesta": "Bandel",
+    "descripcion": "Lintah tinggalnya disungai suka hisap darah orang.ya,sudah bandel namanya"
+  },
+  {
+    "index": 27,
+    "pregunta": "Makanan harus di….",
+    "respuesta": "Masak",
+    "descripcion": "Coba aja makan nasi yang nggak dimasak"
+  },
+  {
+    "index": 28,
+    "pregunta": "Ibukota indonesia",
+    "respuesta": "Udahada",
+    "descripcion": "Yg belum ada itu ibukota jakarta"
+  },
+  {
+    "index": 29,
+    "pregunta": "Di palembang terdapat jembatan..",
+    "respuesta": "Anjlok",
+    "descripcion": "Namanya aja jembatan, kan bisa aja rusak.."
+  },
+  {
+    "index": 30,
+    "pregunta": "Orang berolah raga biar..",
+    "respuesta": "Inlah",
+    "descripcion": "Jangan dilarang-larang kalo orang mau sehat.."
+  },
+  {
+    "index": 31,
+    "pregunta": "Ibu menjahit dengan jarum dan..",
+    "respuesta": "Serius",
+    "descripcion": "Ya harus serius dong, biar selesai.."
+  },
+  {
+    "index": 32,
+    "pregunta": "Kata untuk menyapa orang batak di medan",
+    "respuesta": "Hallo",
+    "descripcion": "Klo ga bales berati lagi sibuk ya kak"
+  },
+  {
+    "index": 33,
+    "pregunta": "Burung besi di sebut juga..",
+    "respuesta": "Pesanan",
+    "descripcion": "Yang mesen burungnya. minta di buat dari besi"
+  },
+  {
+    "index": 34,
+    "pregunta": "Sumur itu berbentuk?",
+    "respuesta": "Lubang",
+    "descripcion": "Pasti lubang kalo ga ada lubangnya namanya bukan sumur"
+  },
+  {
+    "index": 35,
+    "pregunta": "Tanda kalau kucing marah ekornya?",
+    "respuesta": "Satu",
+    "descripcion": "Karena kalau bukan satu namanya bukan kucing"
+  },
+  {
+    "index": 36,
+    "pregunta": "Buah apa yang sering dibawa pas lagi main kerumah pacar?",
+    "respuesta": "Apel",
+    "descripcion": "Ya kan kalo main ke rumah pacar sering ngapel.."
+  },
+  {
+    "index": 37,
+    "pregunta": "Baju disimpan orang di…",
+    "respuesta": "Anyari",
+    "descripcion": "Kalo ibu pasti simpen di lemari, kalo orang lain tau dmana.."
+  },
+  {
+    "index": 38,
+    "pregunta": "Buah-buah apa yang tua",
+    "respuesta": "Singkong",
+    "descripcion": "Kan si – ngkong gimana si vrohh"
+  },
+  {
+    "index": 39,
+    "pregunta": "Tidak pintar pelajaran",
+    "respuesta": "Boleh",
+    "descripcion": "Pelajaran tidak pintar boleh, tidak dipelajari tidak boleh"
+  },
+  {
+    "index": 40,
+    "pregunta": "Hewan yang besar namanya",
+    "respuesta": "Gemuk",
+    "descripcion": "Karena hewan yg badan nya besar pasti gemuk"
+  },
+  {
+    "index": 41,
+    "pregunta": "Ada di akhir cerita..",
+    "respuesta": "Tdana",
+    "descripcion": "Bener kan ? ada huruf t dan a"
+  },
+  {
+    "index": 42,
+    "pregunta": "Sd adalah sekolah",
+    "respuesta": "Damai",
+    "descripcion": "Semoga semua sekolah damai, beprestasi muridnya"
+  },
+  {
+    "index": 43,
+    "pregunta": "Kalau haus minum",
+    "respuesta": "Masak",
+    "descripcion": "Makanan nya belom mateng, jadi harus dimasak dulu"
+  },
+  {
+    "index": 44,
+    "pregunta": "Pasang bendera di…",
+    "respuesta": "Tarik",
+    "descripcion": "Kalo ga ditarik ga naik benderanya"
+  },
+  {
+    "index": 45,
+    "pregunta": "Jalannya luas gak bisa lewat",
+    "respuesta": "Ludah",
+    "descripcion": "Udah saya cobain sendiri, susah…"
+  },
+  {
+    "index": 46,
+    "pregunta": "Sebelum di minum kopi di",
+    "respuesta": "Mulut",
+    "descripcion": "Sebelum di minum pasti di taruh mulut"
+  },
+  {
+    "index": 47,
+    "pregunta": "Temannya nobita..",
+    "respuesta": "Sedikit",
+    "descripcion": "Coba aja itung ada berapa, sedikit kan?"
+  },
+  {
+    "index": 48,
+    "pregunta": "Mandi biar…",
+    "respuesta": "Byuur",
+    "descripcion": "Segeerr, kamu sudah mandi belum?"
+  },
+  {
+    "index": 49,
+    "pregunta": "Monumen jakarta itu",
+    "respuesta": "Keras",
+    "descripcion": "Coba aja kamu gigit"
+  },
+  {
+    "index": 50,
+    "pregunta": "Ayam apa yang gede banget?",
+    "respuesta": "Ayamsemesta",
+    "descripcion": "Gede bener kan itu!"
+  },
+  {
+    "index": 51,
+    "pregunta": "Alat musik tiup..",
+    "respuesta": "Sudahada",
+    "descripcion": "Emang udah ada kan, banyak lho jenisnya.."
+  },
+  {
+    "index": 52,
+    "pregunta": "Di dalam perpustakaan tidak boleh..",
+    "respuesta": "Keramas",
+    "descripcion": "Nanti bukunya basah semua doong.."
+  },
+  {
+    "index": 53,
+    "pregunta": "Rizky febian lahir di",
+    "respuesta": "Gendong",
+    "descripcion": "Ya di gendong dulu lah masa langsung di mandiin"
+  },
+  {
+    "index": 54,
+    "pregunta": "Para pejuang melawan penjajah dengan senjata??",
+    "respuesta": "Bikinsendiri",
+    "descripcion": "Klo gak bikin sendiri lah trus dibikinin siapa"
+  },
+  {
+    "index": 55,
+    "pregunta": "Kakak mengantar adik sekolah sampai",
+    "respuesta": "Capek",
+    "descripcion": "Nganter nya di gendong"
+  },
+  {
+    "index": 56,
+    "pregunta": "Orang sakit minum?",
+    "respuesta": "Oiya",
+    "descripcion": "Sakit minum yang banyak yah, biar cepet sembuh"
+  },
+  {
+    "index": 57,
+    "pregunta": "Pesawat mendarat di…",
+    "respuesta": "Bantuin",
+    "descripcion": "Pilot, co-pilot, operator bandara dan lain-lain.."
+  },
+  {
+    "index": 58,
+    "pregunta": "Di rumah ada adik",
+    "respuesta": "Masak",
+    "descripcion": "Hmm kira kira lagi masak apa yah…"
+  },
+  {
+    "index": 59,
+    "pregunta": "Pelat nomer kendaraan a berasal dari?",
+    "respuesta": "Samsat",
+    "descripcion": "Karena samsat merupakan institusi yg berhak mengeluarkan plat kendaraan bermotor.."
+  },
+  {
+    "index": 60,
+    "pregunta": "Hujan deres bikin …",
+    "respuesta": "Basah",
+    "descripcion": "Kalau panas pasti kering"
+  },
+  {
+    "index": 61,
+    "pregunta": "Makan dianjurkan pakai tangan…",
+    "respuesta": "Benar",
+    "descripcion": "Kanan atau kiri boleh kok, kanan lebih bagus sih katanya"
+  },
+  {
+    "index": 62,
+    "pregunta": "Apa yang tidak boleh di bawa kepesawat",
+    "respuesta": "Sendiri",
+    "descripcion": "Karena kalo kita bawa sendiri nanti jatuh"
+  },
+  {
+    "index": 63,
+    "pregunta": "Alpukat",
+    "respuesta": "Bisa",
+    "descripcion": "Memang bisa disebut"
+  },
+  {
+    "index": 64,
+    "pregunta": "Bekas pacar disebut",
+    "respuesta": "Jangan",
+    "descripcion": "Nanti pacar yang sekarang marah"
+  },
+  {
+    "index": 65,
+    "pregunta": "Di akuarium ada ikan 10 mati 2 tinggal",
+    "respuesta": "Dibuang",
+    "descripcion": "Kalo ga di buang, ikan yang laen jadi ikutan mati"
+  },
+  {
+    "index": 66,
+    "pregunta": "Tidak masuk kerja karena hari..",
+    "respuesta": "Diphk",
+    "descripcion": "Ya kan si hari kalo di phk ga usah masuk kerja lagi.."
+  },
+  {
+    "index": 67,
+    "pregunta": "Tinky winky",
+    "respuesta": "Tenarsekali",
+    "descripcion": "Nama nama tersebut sudah terkenal di semua kalangan"
+  },
+  {
+    "index": 68,
+    "pregunta": "Cicak jatuh ke…",
+    "respuesta": "Bacok",
+    "descripcion": "Di bacok mah jatuh"
+  },
+  {
+    "index": 69,
+    "pregunta": "Mulutmu ………..",
+    "respuesta": "Hanyasatu",
+    "descripcion": "Mulut kan emang cuma satu"
+  },
+  {
+    "index": 70,
+    "pregunta": "Yang menyebabkan haus saat romadhon",
+    "respuesta": "Cuaca",
+    "descripcion": "Kalo panas pasti bikin haus, kalau puasa laper juga yah…"
+  },
+  {
+    "index": 71,
+    "pregunta": "Kirimin uang lewat atm?",
+    "respuesta": "Thanksya",
+    "descripcion": "Thanks ya sudah diterima"
+  },
+  {
+    "index": 72,
+    "pregunta": "Burung terbang dengan?",
+    "respuesta": "Semaunya",
+    "descripcion": "Iya kali kucing terbang.."
+  },
+  {
+    "index": 73,
+    "pregunta": "Ada udang di balik…",
+    "respuesta": "Gnadu",
+    "descripcion": "Itu fakta"
+  },
+  {
+    "index": 74,
+    "pregunta": "Es es apa yang bisa jalan",
+    "respuesta": "Eskalator",
+    "descripcion": "Kalau ga jalan bukan es kalator tapi tangga kalator"
+  },
+  {
+    "index": 75,
+    "pregunta": "Hati senang walaupun tak punya",
+    "respuesta": "Kaca",
+    "descripcion": "Kaca juga gak penting penting amat"
+  },
+  {
+    "index": 76,
+    "pregunta": "Suami bu camat?",
+    "respuesta": "Laki",
+    "descripcion": "Karena kalo gak laki lesbi, dosa…"
+  },
+  {
+    "index": 77,
+    "pregunta": "Tak kenal maka tak",
+    "respuesta": "Undang",
+    "descripcion": "Orang ga kenal masak di undang"
+  },
+  {
+    "index": 78,
+    "pregunta": "Hewan yang melolong dimalam hari…",
+    "respuesta": "Terinjak",
+    "descripcion": "Kasian kaki nya keinjak"
+  },
+  {
+    "index": 79,
+    "pregunta": "Api dipegang terasa?",
+    "respuesta": "Susah",
+    "descripcion": "Api dipegang susah lah panas lagi"
+  },
+  {
+    "index": 80,
+    "pregunta": "Dalam permainan bulutangkis",
+    "respuesta": "Iya",
+    "descripcion": "Coba nonton bulutangkis pasti nama indonesia disingkat"
+  },
+  {
+    "index": 81,
+    "pregunta": "Ada guling ada…",
+    "respuesta": "Benang",
+    "descripcion": "Kalo ga ada benang jahitnya pake apa"
+  },
+  {
+    "index": 82,
+    "pregunta": "Andi basah kuyup karena?",
+    "respuesta": "Husen",
+    "descripcion": "Karena diceburin si husen ke kolam, nakal banget yah…"
+  },
+  {
+    "index": 83,
+    "pregunta": "Matahari terbenam hari mulai",
+    "respuesta": "Pulang",
+    "descripcion": "Udah malam kalo gak pulang, hari dicariin ibunya"
+  },
+  {
+    "index": 84,
+    "pregunta": "Supaya bersih kita mandi dengan……..",
+    "respuesta": "Yakin",
+    "descripcion": "Kalo nggak yakin mending nggak usah mandi……."
+  },
+  {
+    "index": 85,
+    "pregunta": "Orang berjalan di atas air tidak pakai",
+    "respuesta": "Otak",
+    "descripcion": "Udah tau ada jalanan kenapa harus jalan di air"
+  },
+  {
+    "index": 86,
+    "pregunta": "Seorang anak belajar biar…",
+    "respuesta": "Kanaja",
+    "descripcion": "Klo dilarang, ntar gak pintar-pintar"
+  },
+  {
+    "index": 87,
+    "pregunta": "Hewan pemakan segala?",
+    "respuesta": "Rakus",
+    "descripcion": "Semuanya dimakan"
+  },
+  {
+    "index": 88,
+    "pregunta": "Burung terbang menggunakan..",
+    "respuesta": "Semangat",
+    "descripcion": "Klo ga semangat pasti lemes tuh.."
+  },
+  {
+    "index": 89,
+    "pregunta": "Beli lampu biasanya di",
+    "respuesta": "Coba",
+    "descripcion": "Anda kalau beli lampu pasti dicoba dulu"
+  },
+  {
+    "index": 90,
+    "pregunta": "Jangan berteman dengan orang",
+    "respuesta": "Hilang",
+    "descripcion": "Gimana cara nya…"
+  },
+  {
+    "index": 91,
+    "pregunta": "Orang menyebrang sungai biasanya dibangun…",
+    "respuesta": "Kanjalan",
+    "descripcion": "Masa orang nyebrang gak pake jalan"
+  },
+  {
+    "index": 92,
+    "pregunta": "Ketika lapar biasanya?",
+    "respuesta": "Malas",
+    "descripcion": "Karena tidak punya tenaga jadinya malas"
+  },
+  {
+    "index": 93,
+    "pregunta": "Rajin pangkal…",
+    "respuesta": "Punya",
+    "descripcion": "Kalo ga rajin ya ga dapat hasil"
+  },
+  {
+    "index": 94,
+    "pregunta": "Badan usaha milik negara bisa disingkat ….",
+    "respuesta": "Bisa",
+    "descripcion": "Emang bisa disingkat kan"
+  },
+  {
+    "index": 95,
+    "pregunta": "Genteng dibuat karena",
+    "respuesta": "Butuh",
+    "descripcion": "Kalo nggak butuh ngapain buat genteng"
+  },
+  {
+    "index": 96,
+    "pregunta": "Jawab dengan benar. dunia ini terdiri dari lima …",
+    "respuesta": "Benar",
+    "descripcion": "Kan sudah saya bilang jawab dengan benar"
+  },
+  {
+    "index": 97,
+    "pregunta": "Kalo mau naik kereta biasanya di…",
+    "respuesta": "Anterin",
+    "descripcion": "Iya lah dianterin ke stasiunya, entah itu yang ngaterin saudara, temen, atau tukang ojek."
+  },
+  {
+    "index": 98,
+    "pregunta": "Gosoklah gigi sebelum ?",
+    "respuesta": "Ancur",
+    "descripcion": "Kalau udah ancur susah gosoknya"
+  },
+  {
+    "index": 99,
+    "pregunta": "Orang bingung mikir",
+    "respuesta": "Sangatlama",
+    "descripcion": "Yaaa..kaya kamu itu"
+  },
+  {
+    "index": 100,
+    "pregunta": "Kecoa",
+    "respuesta": "Bedabeda",
+    "descripcion": "Kalo disebutnya sama jadinya, semut..semut..semut.."
+  },
+  {
+    "index": 101,
+    "pregunta": "Presiden pertama indonesia",
+    "respuesta": "Seorang",
+    "descripcion": "Memang pasti satu"
+  },
+  {
+    "index": 102,
+    "pregunta": "Orang biasa mengirim surat di…",
+    "respuesta": "Kantongin",
+    "descripcion": "Dikantongin dulu, baru ke kantorpos"
+  },
+  {
+    "index": 103,
+    "pregunta": "Perbedaan kambing dengan domba",
+    "respuesta": "Dikit",
+    "descripcion": "Beda bulu saja coy"
+  },
+  {
+    "index": 104,
+    "pregunta": "Berakit-rakit ke hulu",
+    "respuesta": "Sungai",
+    "descripcion": "Sebenernya bisa ke danau, tapi saya lagi kepingin sungai.."
+  },
+  {
+    "index": 105,
+    "pregunta": "Olahraga membuat badan…",
+    "respuesta": "Salah",
+    "descripcion": "Ya masa olahraga membuat badan,ya salah!!"
+  },
+  {
+    "index": 106,
+    "pregunta": "Yang pertama menemukan benua amerika",
+    "respuesta": "Bukangue",
+    "descripcion": "Ya emang bukan gue, yang nemuin tu colombus.."
+  },
+  {
+    "index": 107,
+    "pregunta": "Malam apa yang menyedihkan",
+    "respuesta": "Malamun",
+    "descripcion": "Iya, kayak kamu..jangan sedih…puk..puk.."
+  },
+  {
+    "index": 108,
+    "pregunta": "Satu ditambah satu..",
+    "respuesta": "Dua",
+    "descripcion": "Gitu aja susah.."
+  },
+  {
+    "index": 109,
+    "pregunta": "Sma adalah sekolah menengah..",
+    "respuesta": "Aman",
+    "descripcion": "Kalo ga aman namanya bukan sekolahan.."
+  },
+  {
+    "index": 110,
+    "pregunta": "Apakah yang dilakukan orang ketika sakit?",
+    "respuesta": "Pulang",
+    "descripcion": "Bener kan pulang.. kan lagi sakit, gimana sih.."
+  },
+  {
+    "index": 111,
+    "pregunta": "Yang suka makan pisang?",
+    "respuesta": "Banyak",
+    "descripcion": "Gak cuma monyet yang suka, dari kalian ada yang suka kan?"
+  },
+  {
+    "index": 112,
+    "pregunta": "Menjelang lebaran kita tidak diwajibkan membeli?",
+    "respuesta": "Paku",
+    "descripcion": "Ngapain beli paku mending beli baju"
+  },
+  {
+    "index": 113,
+    "pregunta": "Tulang yg berwarna biru apa ayo…",
+    "respuesta": "Tulangit",
+    "descripcion": "Warnanya biru kan"
+  },
+  {
+    "index": 114,
+    "pregunta": "Sebelum terbang biasanya pilot..",
+    "respuesta": "Pamitan",
+    "descripcion": "Biar ga dicariin kayaknya.."
+  },
+  {
+    "index": 115,
+    "pregunta": "Temen yang susah ditemui biasa lagi",
+    "respuesta": "Pdkt",
+    "descripcion": "Cieee eee cieee"
+  },
+  {
+    "index": 116,
+    "pregunta": "Kura-kura dibalik?",
+    "respuesta": "Kasihan",
+    "descripcion": "Kasihan dong nanti ga mbalik-mbalik lagi"
+  },
+  {
+    "index": 117,
+    "pregunta": "Sepuluh di tambah enam sama dengan enam……",
+    "respuesta": "Salah",
+    "descripcion": "Sepuluh di tambah enam ko enam"
+  },
+  {
+    "index": 118,
+    "pregunta": "Mobil tidak bisa jalan maju sebab…",
+    "respuesta": "Parkir",
+    "descripcion": "Lagian ngapain mobil parkir di majuin"
+  },
+  {
+    "index": 119,
+    "pregunta": "Nama binatang yang di ulang..",
+    "respuesta": "Jarang",
+    "descripcion": "Jarang kan coba sebutkan.."
+  },
+  {
+    "index": 120,
+    "pregunta": "Lari itu bikin",
+    "respuesta": "Salah",
+    "descripcion": "Lari ya lari, bikin ya bikin.."
+  },
+  {
+    "index": 121,
+    "pregunta": "Telor apa yang sering ditakuti..",
+    "respuesta": "Telorasin",
+    "descripcion": "Liat tuh ada tato nya, bikin ngeri,,"
+  },
+  {
+    "index": 122,
+    "pregunta": "Yang tersedia dirumah makan padang",
+    "respuesta": "Recehan",
+    "descripcion": "Biar ada kembaliannya kan.."
+  },
+  {
+    "index": 123,
+    "pregunta": "Indonesia negara dengan tanah?",
+    "respuesta": "Airbeta",
+    "descripcion": "Merdekaaaa.."
+  },
+  {
+    "index": 124,
+    "pregunta": "Tidak ditemukan",
+    "respuesta": "Dicuri",
+    "descripcion": "Maling emang kurang ajar"
+  },
+  {
+    "index": 125,
+    "pregunta": "Yang membatalkan puasa",
+    "respuesta": "Adzan",
+    "descripcion": "Kirain udah adzan mahgrib, ternyata masih dzuhur"
+  },
+  {
+    "index": 126,
+    "pregunta": "Hewan yang ada di kebun binatang",
+    "respuesta": "Iya",
+    "descripcion": "Iya betulkan hewan ada di kebun binatang"
+  },
+  {
+    "index": 127,
+    "pregunta": "Apa fungsi rem?",
+    "respuesta": "Ngebut",
+    "descripcion": "Coba kalau ga ada rem. berani kalian ngebut?"
+  },
+  {
+    "index": 128,
+    "pregunta": "Nenek moyangku seorang",
+    "respuesta": "Pelatih",
+    "descripcion": "Lah itu nenek saya, jadi terserah saya dong."
+  },
+  {
+    "index": 129,
+    "pregunta": "Air yang turun dari langit disebut?",
+    "respuesta": "Hebat",
+    "descripcion": "Kan hebat hujan bisa turun dari langit"
+  },
+  {
+    "index": 130,
+    "pregunta": "Ukuran tegangan listrik",
+    "respuesta": "Waaw",
+    "descripcion": "Nah, kalo teriak waaw nya kenceng tu berarti tegangannya gede.."
+  },
+  {
+    "index": 131,
+    "pregunta": "Hewan melompat",
+    "respuesta": "Kagetloh",
+    "descripcion": "Kalau ada hewan tiba tiba lompat pasti kaget"
+  },
+  {
+    "index": 132,
+    "pregunta": "Sepeda motor bisa berjalan karena rodanya berbentuk . .",
+    "respuesta": "Biasa",
+    "descripcion": "Kalo gak biasa, roda berbentuk kubus kan gak biasa itu."
+  },
+  {
+    "index": 133,
+    "pregunta": "Kebiasaan apa yang sering dilakukan supir angkot?",
+    "respuesta": "Narik",
+    "descripcion": "Ya kalo ga narik anak istri makan apa dong?"
+  },
+  {
+    "index": 134,
+    "pregunta": "Kalo gak kemana mana namanya",
+    "respuesta": "Jodoh",
+    "descripcion": "Ciye kalo jodoh gak bakalan kemana mana"
+  },
+  {
+    "index": 135,
+    "pregunta": "Ubi &amp; singkong biasanya ditanam orang di…..",
+    "respuesta": "Kubur",
+    "descripcion": "Bisa dipanen pada usia 6-8 bulan"
+  },
+  {
+    "index": 136,
+    "pregunta": "Koran disebut surat……",
+    "respuesta": "Salah",
+    "descripcion": "Koran kok surat …"
+  },
+  {
+    "index": 137,
+    "pregunta": "Orang yang membantu menggunakan sabuk pengaman dan melayani kita di dalam pesawat disebut..",
+    "respuesta": "Orangbaik",
+    "descripcion": "Ya namanya orang baik kan suka membantu.."
+  },
+  {
+    "index": 138,
+    "pregunta": "Hewan berkelompok",
+    "respuesta": "Gerah",
+    "descripcion": "Kan di dalam sarangnya banyakan jadi gerah"
+  },
+  {
+    "index": 139,
+    "pregunta": "Yang sering mendapat nilai 100 saat ulangan..",
+    "respuesta": "Kertas",
+    "descripcion": "Nilai 100 nya ada diatas kertas bukan?"
+  },
+  {
+    "index": 140,
+    "pregunta": "Tidak kering-kering karena masih..",
+    "respuesta": "Getar",
+    "descripcion": "Ya hape nya ga bunyi kring, makanya getar.."
+  },
+  {
+    "index": 141,
+    "pregunta": "Andi punya sepuluh buah apel",
+    "respuesta": "Sepuluh",
+    "descripcion": "Si andi pelit emang ga mau kasih apel nya"
+  },
+  {
+    "index": 142,
+    "pregunta": "Yang bisa menangkap penjahat di malam hari..",
+    "respuesta": "Bangga",
+    "descripcion": "Bangga dong bisa nangkap penjahat, ya gak?"
+  },
+  {
+    "index": 143,
+    "pregunta": "Vokalis naif……",
+    "respuesta": "Dikit",
+    "descripcion": "Setau saya david doang, satu dikit kan?"
+  },
+  {
+    "index": 144,
+    "pregunta": "Makan ketoprak sama gado gado kurang enak tanpa…",
+    "respuesta": "Ketelen",
+    "descripcion": "Karna kalo kaga ketelen kaga bisa rasain"
+  },
+  {
+    "index": 145,
+    "pregunta": "Hewan yang mempunyai sembilan nyawa adalah",
+    "respuesta": "Mustahil",
+    "descripcion": "Karena setiap makhluk hidup cuma punya satu nyawa"
+  },
+  {
+    "index": 146,
+    "pregunta": "Makanan pokok indonesia dari zaman dulu",
+    "respuesta": "Basi",
+    "descripcion": "Iya basi la… orang dari zaman dulu"
+  },
+  {
+    "index": 147,
+    "pregunta": "Tak ada …. yang retak",
+    "respuesta": "Beling",
+    "descripcion": "Namanya beling pasti retak.."
+  },
+  {
+    "index": 148,
+    "pregunta": "Biasanya orang minum pil karena..",
+    "respuesta": "Ingat",
+    "descripcion": "Bisa vitamin bisa obat"
+  },
+  {
+    "index": 149,
+    "pregunta": "Beras asal nya dari ?",
+    "respuesta": "Bumi",
+    "descripcion": "Padi berasal dari bumi, betul?"
+  },
+  {
+    "index": 150,
+    "pregunta": "Cara berhenti merokok adalah?",
+    "respuesta": "Berenang",
+    "descripcion": "Coba saja kalo tidak percaya"
+  },
+  {
+    "index": 151,
+    "pregunta": "Ayah tidak mau makan nasi lagi karena",
+    "respuesta": "Kemakan",
+    "descripcion": "Kalo nasi sudah kemakan kenyang"
+  },
+  {
+    "index": 152,
+    "pregunta": "Habis delapan",
+    "respuesta": "Sembelit",
+    "descripcion": "Banyakin sayur nya agar pencernaan lancar"
+  },
+  {
+    "index": 153,
+    "pregunta": "Kalau mau bisa bahasa inggris",
+    "respuesta": "Keles",
+    "descripcion": "Ya harus baca kalo ngga baca ngga mungkin bisa !"
+  },
+  {
+    "index": 154,
+    "pregunta": "Valentino rosi adalah pembalap yang berasal dari",
+    "respuesta": "Ibunya",
+    "descripcion": "Kalo bukan dari ibunya dari siapa"
+  },
+  {
+    "index": 155,
+    "pregunta": "Jalan diatas sungai untuk menyeberang sungai..",
+    "respuesta": "Sembrono",
+    "descripcion": "Masak jalan diatas sungai, kenapa ga naik jembatan.."
+  },
+  {
+    "index": 156,
+    "pregunta": "Api lilin mati jika ditutup gelas karena kurang",
+    "respuesta": "Kerjaan",
+    "descripcion": "Lilin sudah nyala kenapa dimatiin"
+  },
+  {
+    "index": 157,
+    "pregunta": "Menyanyi dalam bahasa inggris?",
+    "respuesta": "Rihanna",
+    "descripcion": "Pernah lihat rihana nyanyi bahasa indonesia?"
+  },
+  {
+    "index": 158,
+    "pregunta": "Meja memiliki kaki …",
+    "respuesta": "Emang",
+    "descripcion": "Emang meja punya kaki kan"
+  },
+  {
+    "index": 159,
+    "pregunta": "Cristiano ronaldo berasal dari?",
+    "respuesta": "Papamama",
+    "descripcion": "Benar, cr.ronaldo berasal dari papa sama mamanya"
+  },
+  {
+    "index": 160,
+    "pregunta": "Perut buncit bahasa cina nya apa?",
+    "respuesta": "Chachingan",
+    "descripcion": "Karna kalau perut buncit kan ada cacing nya"
+  },
+  {
+    "index": 161,
+    "pregunta": "Ayam 1 ekor ada 2 kaki…ayam 2 kaki ada??",
+    "respuesta": "Satuekor",
+    "descripcion": "Fokus dong fokus"
+  },
+  {
+    "index": 162,
+    "pregunta": "Minuman yang bisa tahan ngantuk dan enak kalau lagi begadang biasanya",
+    "respuesta": "Lagi",
+    "descripcion": "Pasti kalau enak mau nambah lagi"
+  },
+  {
+    "index": 163,
+    "pregunta": "Orang tinggal disebelah rumah biasa disebut..",
+    "respuesta": "Rangga",
+    "descripcion": "Ya itu tetangga saya"
+  },
+  {
+    "index": 164,
+    "pregunta": "Nama jembatan antara surabaya dan madura",
+    "respuesta": "Sudahada",
+    "descripcion": "Emang lah jembatan suramadu sudahada"
+  },
+  {
+    "index": 165,
+    "pregunta": "Mamat di marahi buguru karena… sekolah",
+    "respuesta": "Bobol",
+    "descripcion": "Kalo bobol sekolah pasti dimarahilah"
+  },
+  {
+    "index": 166,
+    "pregunta": "Kalau haus minum",
+    "respuesta": "Tahan",
+    "descripcion": "Belum jam istirahat, nanti dimarahin bos bisa di pecat.."
+  },
+  {
+    "index": 167,
+    "pregunta": "Motor bocor biasanya di?",
+    "respuesta": "Bannya",
+    "descripcion": "Kan motor bocornya diban"
+  },
+  {
+    "index": 168,
+    "pregunta": "Tak kenal makanya tak",
+    "respuesta": "Taulah",
+    "descripcion": "Kalo gak kenal ya tak tau lah siapa dia"
+  },
+  {
+    "index": 169,
+    "pregunta": "Mirip dan sulit di bedakan karena anak…",
+    "respuesta": "Komodo",
+    "descripcion": "Karena komodo sulit di bedakan"
+  },
+  {
+    "index": 170,
+    "pregunta": "Sebelum hari senin adalah hari..",
+    "respuesta": "Libur",
+    "descripcion": "Siapa yang bilang salah??"
+  },
+  {
+    "index": 171,
+    "pregunta": "Dimana tempat lahir i gusti ngurah rai?",
+    "respuesta": "Bumi",
+    "descripcion": "Indonesia masih di bumi kan?"
+  },
+  {
+    "index": 172,
+    "pregunta": "Dari bandung ke surabaya kita menggunakan…",
+    "respuesta": "Celana",
+    "descripcion": "Masa dari bandung ke surabaya gak pake celana..malu"
+  },
+  {
+    "index": 173,
+    "pregunta": "Cowok yang suka senyum senyum sendiri itu tandanya…",
+    "respuesta": "Gila",
+    "descripcion": "Sudah gejala umum"
+  },
+  {
+    "index": 174,
+    "pregunta": "Anda datang terlambat maka anda",
+    "respuesta": "Selamat",
+    "descripcion": "Kan udah sampai"
+  },
+  {
+    "index": 175,
+    "pregunta": "Ada gula ada?",
+    "respuesta": "Gelas",
+    "descripcion": "Kalau tidak ada di gelas dimakan semut"
+  },
+  {
+    "index": 176,
+    "pregunta": "Biasanya orang meninggal di?",
+    "respuesta": "Kabarin",
+    "descripcion": "Kasih tahu sanak saudara… baru di kuburin"
+  },
+  {
+    "index": 177,
+    "pregunta": "Sepandai-pandainya tupai melompat pasti akan…juga",
+    "respuesta": "Jalan",
+    "descripcion": "Masak tupai ga boleh jalan, capek kan…"
+  },
+  {
+    "index": 178,
+    "pregunta": "Alat musik yang cara mainnya digesek..",
+    "respuesta": "Baret",
+    "descripcion": "Jangan digesek dong, nanti baret. mahal lho belinya.."
+  },
+  {
+    "index": 179,
+    "pregunta": "Orang apa yang dibacok gak mempan?",
+    "respuesta": "Oranggakkena",
+    "descripcion": "Nah iya makanya gak mempan kan.."
+  },
+  {
+    "index": 180,
+    "pregunta": "Besar ____ daripada tiang",
+    "respuesta": "Pasar",
+    "descripcion": "Bener kan pasar lebih gede dari tiang.."
+  },
+  {
+    "index": 181,
+    "pregunta": "Jauh di mata dekat di ..",
+    "respuesta": "Sini",
+    "descripcion": "Kalau di mata jauh, di sini aja deket"
+  },
+  {
+    "index": 182,
+    "pregunta": "Kuda berkaki….",
+    "respuesta": "Emang",
+    "descripcion": "Kuda memang punya kaki"
+  },
+  {
+    "index": 183,
+    "pregunta": "Ibu ibu ke rumah bu rt karena",
+    "respuesta": "Ngirit",
+    "descripcion": "Ibu ibu ke rumah bu rt biasanya makan-makan buat ngirit uang di rumah"
+  },
+  {
+    "index": 184,
+    "pregunta": "Bisa ditarik tapi tidak bisa dilihat",
+    "respuesta": "Kuping",
+    "descripcion": "Silahkan di coba…"
+  },
+  {
+    "index": 185,
+    "pregunta": "Dalam pelajaran biologi",
+    "respuesta": "Anaknya",
+    "descripcion": "Kalau tidak anaknya lalu siapa"
+  },
+  {
+    "index": 186,
+    "pregunta": "Bulu ketek di cabut",
+    "respuesta": "Sayaa",
+    "descripcion": "Di cabut saya lah masa ama orang lain"
+  },
+  {
+    "index": 187,
+    "pregunta": "Bangun tidur ku terus….",
+    "respuesta": "Melek",
+    "descripcion": "Pasti pertama bangun buka mata dulu dong"
+  },
+  {
+    "index": 188,
+    "pregunta": "Bisa sms kalo ada…",
+    "respuesta": "Hplah",
+    "descripcion": "Kalo gak ada hp mana bisa sms"
+  },
+  {
+    "index": 189,
+    "pregunta": "Apa yang dilakukan sebelum ke mesjid?",
+    "respuesta": "Parkir",
+    "descripcion": "Jangankan motor …sendal aja ga boleh masuk…"
+  },
+  {
+    "index": 190,
+    "pregunta": "Cicak suka makan",
+    "respuesta": "Banyak",
+    "descripcion": "Kamu aja kadang nambah"
+  },
+  {
+    "index": 191,
+    "pregunta": "Saat lulus s1",
+    "respuesta": "Sukuran",
+    "descripcion": "Sukuran, bisa lulus sarjana.."
+  },
+  {
+    "index": 192,
+    "pregunta": "Jangan nonton bola",
+    "respuesta": "Gajuga",
+    "descripcion": "Selama masih ada kopi mah oke-oke aja"
+  },
+  {
+    "index": 193,
+    "pregunta": "Ketika tidur orang biasanya..",
+    "respuesta": "Mendingan",
+    "descripcion": "Ya kan jadi mendingan gak ngantuk lagi.."
+  },
+  {
+    "index": 194,
+    "pregunta": "Bantal dibalik jadi….",
+    "respuesta": "Dingin",
+    "descripcion": "Kalau gak percaya coba aja"
+  },
+  {
+    "index": 195,
+    "pregunta": "Kendaraan yang diawali huruf b ?",
+    "respuesta": "Mobil",
+    "descripcion": "Kendaraan yang diawal (i) huruf b, ya mobil …"
+  },
+  {
+    "index": 196,
+    "pregunta": "Pemimpin suatu desa biasa dipanggil pak",
+    "respuesta": "Noleh",
+    "descripcion": "Kalo dipanggil mesti noleh dong"
+  },
+  {
+    "index": 197,
+    "pregunta": "Ada ayah",
+    "respuesta": "Hitung",
+    "descripcion": "Supaya tidak ada yang tertinggal"
+  },
+  {
+    "index": 198,
+    "pregunta": "Yang biasa nya ada dipantai?",
+    "respuesta": "Bibir",
+    "descripcion": "Pinggiran pantai namanya bibir pantai dong"
+  },
+  {
+    "index": 199,
+    "pregunta": "Duduk sama rendah",
+    "respuesta": "Kaki",
+    "descripcion": "Kalau sama tangan susah tauk!"
+  },
+  {
+    "index": 200,
+    "pregunta": "Ketika ada yang ulang tahun di kasih….",
+    "respuesta": "Yani",
+    "descripcion": "Karena orang ulang tahun pasti umurnya berkurang"
+  },
+  {
+    "index": 201,
+    "pregunta": "Bermain tenis menggunakan",
+    "respuesta": "Jaket",
+    "descripcion": "Karena cuacanya sedang dingin"
+  },
+  {
+    "index": 202,
+    "pregunta": "Bila anak pulang larut malam orang tua pasti..",
+    "respuesta": "Tauwaktu",
+    "descripcion": "Kalo ga tau waktu, anaknya pulang malam dikira siang"
+  },
+  {
+    "index": 203,
+    "pregunta": "Bandung lautan ?",
+    "respuesta": "Air",
+    "descripcion": "Karena air di laut"
+  },
+  {
+    "index": 204,
+    "pregunta": "Supaya aman mobil jalan harus ada..",
+    "respuesta": "Kita",
+    "descripcion": "Kalo mobil jalan tanpa kita itu namanya gelinding"
+  },
+  {
+    "index": 205,
+    "pregunta": "Burung hewan yang bisa?",
+    "respuesta": "Temenan",
+    "descripcion": "Kalo terbangnya rame-rame kan sama temennya"
+  },
+  {
+    "index": 206,
+    "pregunta": "Supaya bersih kita mandi dengan",
+    "respuesta": "Yakin",
+    "descripcion": "Klo ga yakin mending ga usah mandi"
+  },
+  {
+    "index": 207,
+    "pregunta": "Ada api pasti ada…",
+    "respuesta": "Anya",
+    "descripcion": "Ya ada a nya,kalo ngga ada a jadi pi dong"
+  },
+  {
+    "index": 208,
+    "pregunta": "Lieonel messi bermain sepak bola di",
+    "respuesta": "Beriuang",
+    "descripcion": "Banyak banget lagi…"
+  },
+  {
+    "index": 209,
+    "pregunta": "Masakan terasa hambar",
+    "respuesta": "Saran",
+    "descripcion": "Kasih saran tuh yang masak, semoga lain kali lebih baik"
+  },
+  {
+    "index": 210,
+    "pregunta": "Puasa dibulan?",
+    "respuesta": "Kejauhan",
+    "descripcion": "Puasa dibumi aja belum becus,sok-sokan puasa dibulan"
+  },
+  {
+    "index": 211,
+    "pregunta": "Daun daun apa yang bisa di makan?",
+    "respuesta": "Daunat",
+    "descripcion": "Enak kan di makan, apalagi rasa coklat"
+  },
+  {
+    "index": 212,
+    "pregunta": "Lari jarak jauh..",
+    "respuesta": "Minggat",
+    "descripcion": "Kalo deket namanya bukan minggat,,"
+  },
+  {
+    "index": 213,
+    "pregunta": "Huruf?",
+    "respuesta": "Abdxt",
+    "descripcion": "Semua itu huruf, benar?"
+  },
+  {
+    "index": 214,
+    "pregunta": "Ketika mandi biasanya orang menggosok…",
+    "respuesta": "Pipi",
+    "descripcion": "Kan biar cakep! bener kan?"
+  },
+  {
+    "index": 215,
+    "pregunta": "Nyarinya susah",
+    "respuesta": "Ngupil",
+    "descripcion": "Hayo kamu suka ngupil juga ya?"
+  },
+  {
+    "index": 216,
+    "pregunta": "Sayur yang enak sekali",
+    "respuesta": "Ludes",
+    "descripcion": "Sayur enak emang cepet ludes"
+  },
+  {
+    "index": 217,
+    "pregunta": "Mengatasi kemacetan dengan?",
+    "respuesta": "Pelumas",
+    "descripcion": "Coba aja pagar rumah anda macet dikasih pelumas! pasti lancarr"
+  },
+  {
+    "index": 218,
+    "pregunta": "Suara alat musik jreeng",
+    "respuesta": "Getar",
+    "descripcion": "Pas jreeeng… gitar getar dong…"
+  },
+  {
+    "index": 219,
+    "pregunta": "Di panggil gak nengok",
+    "respuesta": "Badak",
+    "descripcion": "Coba panggil pasti tidak bakal nengok"
+  },
+  {
+    "index": 220,
+    "pregunta": "Apa yang paling ditakuti anak sd?",
+    "respuesta": "Disuntik",
+    "descripcion": "Ada yang hobi disuntik?!"
+  },
+  {
+    "index": 221,
+    "pregunta": "Jakarta biasanya….",
+    "respuesta": "Platb",
+    "descripcion": "Karena jakarta no platnya b,biasanya panas"
+  },
+  {
+    "index": 222,
+    "pregunta": "Negara yang memiliki banyak kincir angin di…",
+    "respuesta": "Petaada",
+    "descripcion": "Benar bukan?"
+  },
+  {
+    "index": 223,
+    "pregunta": "Apa yang dilakukan ketika masuk sekolah?",
+    "respuesta": "Mintaanter",
+    "descripcion": "Huh dasar anak-anak.."
+  },
+  {
+    "index": 224,
+    "pregunta": "Sebelum jadi nasi ?",
+    "respuesta": "Keras",
+    "descripcion": "Nasi kan lembek, sebelum lebek dia keras kan ?"
+  },
+  {
+    "index": 225,
+    "pregunta": "Pak tani menanam pa didi",
+    "respuesta": "Lewat",
+    "descripcion": "Pa’ didi lewat mau kepasar sepertinya"
+  },
+  {
+    "index": 226,
+    "pregunta": "Rokok jika dibakar mengeluarkan",
+    "respuesta": "Anak",
+    "descripcion": "Rokok depan anak tidak baik, maka keluarin dulu anaknya dari ruang rokok"
+  },
+  {
+    "index": 227,
+    "pregunta": "Kucing diatas pohon kalau turun apanya dulu?",
+    "respuesta": "Niatnya",
+    "descripcion": "Kalau ada niat pasti ada jalan!"
+  },
+  {
+    "index": 228,
+    "pregunta": "Cuci piring harus dengan …",
+    "respuesta": "Sadar",
+    "descripcion": "Kalau ga sadar, piring nya gak tercuci ,malah pecah…"
+  },
+  {
+    "index": 229,
+    "pregunta": "Mawar bertemu pacar malam hari di..",
+    "respuesta": "Marahi",
+    "descripcion": "Kata nenek itu ga baik"
+  },
+  {
+    "index": 230,
+    "pregunta": "Seorang wakil rakyat bisa ke senayan dengan menggunakan jalur..",
+    "respuesta": "Viatol",
+    "descripcion": "Nah keluar tol di semanggi, sampe tuh senayan.."
+  },
+  {
+    "index": 231,
+    "pregunta": "Apa bedanya motor ama sepeda",
+    "respuesta": "Jelas",
+    "descripcion": "Dah tau beda pake mikir"
+  },
+  {
+    "index": 232,
+    "pregunta": "Gigi nempel di?",
+    "respuesta": "Kaki",
+    "descripcion": "Naek motor ganti gigi di kaki"
+  },
+  {
+    "index": 233,
+    "pregunta": "Sungai yang ada dikalimantan",
+    "respuesta": "Banyak",
+    "descripcion": "Ada sungai barito,sungai kapuas,sungai kahayan dll"
+  },
+  {
+    "index": 234,
+    "pregunta": "Ikan bernapas dengan…",
+    "respuesta": "Izintuhan",
+    "descripcion": "Kalau gak diizinin gak bisa bernapas"
+  },
+  {
+    "index": 235,
+    "pregunta": "Makanan pedas karena…",
+    "respuesta": "Manya",
+    "descripcion": "Kare namanya, kalo kecut ketek namanya"
+  },
+  {
+    "index": 236,
+    "pregunta": "Biasa ada di pinggir jalan",
+    "respuesta": "Pdicoret",
+    "descripcion": "Itu tanda nya di larang parkir yah"
+  },
+  {
+    "index": 237,
+    "pregunta": "Ibu yang baik harusnya…",
+    "respuesta": "Ibukita",
+    "descripcion": "Tidak akan pernah bisa dibalas kebaikannya"
+  },
+  {
+    "index": 238,
+    "pregunta": "Obat ampuh darah rendah ?",
+    "respuesta": "Ludahin",
+    "descripcion": "Kalo orang yang darah rendah di ludahin pasti langsung darah tinggi"
+  },
+  {
+    "index": 239,
+    "pregunta": "Yang dipukul petinju",
+    "respuesta": "Santai",
+    "descripcion": "Yang saling mukul petinju kita yang lihat mah santai"
+  },
+  {
+    "index": 240,
+    "pregunta": "Cilok cilok apa yang bisa senengin bayi",
+    "respuesta": "Cilokba",
+    "descripcion": "Cilook baaa ih lutu banget…."
+  },
+  {
+    "index": 241,
+    "pregunta": "Alat musik tiup",
+    "respuesta": "Sulitloh",
+    "descripcion": "Main seruling kan sulit"
+  },
+  {
+    "index": 242,
+    "pregunta": "Bukan sulap",
+    "respuesta": "Sulap",
+    "descripcion": "Kalau bukan sulap ya berarti bukan sulap dong"
+  },
+  {
+    "index": 243,
+    "pregunta": "Astronot pergi keluar?",
+    "respuesta": "Ganyari",
+    "descripcion": "Kalo astronot pergi keluarganya pasti nyari"
+  },
+  {
+    "index": 244,
+    "pregunta": "Tempat kita bisa melihat s ditengahnya",
+    "respuesta": "Kasur",
+    "descripcion": "Ya iya itu tengahnya s kan?"
+  },
+  {
+    "index": 245,
+    "pregunta": "Sandal apa yang paling enak?",
+    "respuesta": "Sandalterasi",
+    "descripcion": "Nah kalo ini swaya juga demen!"
+  },
+  {
+    "index": 246,
+    "pregunta": "Orang bisa berdiri dengan",
+    "respuesta": "Kuat",
+    "descripcion": "Kalo gakuat gimana bisa berdiri"
+  },
+  {
+    "index": 247,
+    "pregunta": "Apa yang ada di ujung laut",
+    "respuesta": "Huruft",
+    "descripcion": "Karena pada kata laut diakhirnya adalah huruf t,gampang ya"
+  },
+  {
+    "index": 248,
+    "pregunta": "Kaca _ _ _ _ _ . biasanya ada dijalan-jalan.",
+    "respuesta": "Ngijo",
+    "descripcion": "Protes nilai dikurangi 50"
+  },
+  {
+    "index": 249,
+    "pregunta": "Orang yang berbadan dua ?",
+    "respuesta": "Heboh",
+    "descripcion": "Kalau lihat orang berbadan dua pasti bikin heboh"
+  },
+  {
+    "index": 250,
+    "pregunta": "Orang menimba air di..",
+    "respuesta": "Tuang",
+    "descripcion": "Abis nimba air harus dituang.."
+  },
+  {
+    "index": 251,
+    "pregunta": "Buka gembok pakai….",
+    "respuesta": "Bunyi",
+    "descripcion": "Klik begitu bunyi nya"
+  },
+  {
+    "index": 252,
+    "pregunta": "Biasanya disimpan dalam karung",
+    "respuesta": "Bebas",
+    "descripcion": "Mau beras mau pasir, bebas aja"
+  },
+  {
+    "index": 253,
+    "pregunta": "Banteng menyeruduk menggunakan..??!",
+    "respuesta": "Tenaga",
+    "descripcion": "Kalau gak pakai tenaga mana bisa dia menanduk."
+  },
+  {
+    "index": 254,
+    "pregunta": "Penjara bisa heboh kalau semua napinya",
+    "respuesta": "Batuk",
+    "descripcion": "Pasti batuknya menular ya, lagi musim nih"
+  },
+  {
+    "index": 255,
+    "pregunta": "Kera kera apa yang diinjak nggak ngomel",
+    "respuesta": "Keramik",
+    "descripcion": "Karena keras"
+  },
+  {
+    "index": 256,
+    "pregunta": "Pagar makan…",
+    "respuesta": "Masasih",
+    "descripcion": "Karena pagar gak bisa makan"
+  },
+  {
+    "index": 257,
+    "pregunta": "Jika kita ke pasar biasanya kita bertemu…",
+    "respuesta": "Tetangga",
+    "descripcion": "Kalo saya sih seringnya ketemu mantan.."
+  },
+  {
+    "index": 258,
+    "pregunta": "Kenapa orang makan dengan tangan kanan?",
+    "respuesta": "Karenamakanan",
+    "descripcion": "Kalau pakai tangan kiri namanya makiri"
+  },
+  {
+    "index": 259,
+    "pregunta": "Pelukis yang cuma bisa gambar pelangi",
+    "respuesta": "Agung",
+    "descripcion": "Pelukismu agung.. siapa gerangan.. pelangi2 ciptaan tuhan.."
+  },
+  {
+    "index": 260,
+    "pregunta": "Bagian gigi yang paling belakang adalah..",
+    "respuesta": "Drumer",
+    "descripcion": "Band nya armand maulana itu loh drummer paling belakang lah"
+  },
+  {
+    "index": 261,
+    "pregunta": "Dapat bergerak sendiri tanpa disuruh?",
+    "respuesta": "Roboh",
+    "descripcion": "Itu namanya dibantuin gravitasi!"
+  },
+  {
+    "index": 262,
+    "pregunta": "Tidak boleh masuk kelas",
+    "respuesta": "Lalat",
+    "descripcion": "Lalat ganggu pelajaran anak murid"
+  },
+  {
+    "index": 263,
+    "pregunta": "Kebaikan orang bisa terlihat dari…",
+    "respuesta": "Anaknya",
+    "descripcion": "Jika anaknya terawat berati dia baik"
+  },
+  {
+    "index": 264,
+    "pregunta": "Tanda lelaki romantis itu suka…",
+    "respuesta": "Perhatian",
+    "descripcion": "Asiiiik"
+  },
+  {
+    "index": 265,
+    "pregunta": "Setiap orang bernapas melalui ..?",
+    "respuesta": "Lubang",
+    "descripcion": "Kalau hidung gak pakai lubang bisa mati"
+  },
+  {
+    "index": 266,
+    "pregunta": "Rendang merupakan makanan yang berasal dari kota yang biasa kita sebut dengan?",
+    "respuesta": "Lancar",
+    "descripcion": "Ya, kita menyebut kota padang dengan lancar, kan?"
+  },
+  {
+    "index": 267,
+    "pregunta": "Yang mengemudikan kapal namanya …",
+    "respuesta": "Berbeda",
+    "descripcion": "Karena yang mengemudikan kapal ada banyak orangnya"
+  },
+  {
+    "index": 268,
+    "pregunta": "Kalo digigit laba2 bisa jadi…",
+    "respuesta": "Sakitbadan",
+    "descripcion": "Ingat, ini bukan dunia komik"
+  },
+  {
+    "index": 269,
+    "pregunta": "Kalo mobil berjalan yang muter apanya?",
+    "respuesta": "Lagunya",
+    "descripcion": "Biar ga bosen nyupir kan?!"
+  },
+  {
+    "index": 270,
+    "pregunta": "Sebutkan salah satu contoh hewan yang jalannya lambat..",
+    "respuesta": "Serigala",
+    "descripcion": "Serigala kan larinya kenceng, kalo jalan ya lambat.."
+  },
+  {
+    "index": 271,
+    "pregunta": "Unggas berkaki 2 adalah",
+    "respuesta": "Bener",
+    "descripcion": "Bener kan?"
+  },
+  {
+    "index": 272,
+    "pregunta": "Alat musik yang digesek",
+    "respuesta": "Baret",
+    "descripcion": "Duh kalau digesek jadi baret. kan sayang"
+  },
+  {
+    "index": 273,
+    "pregunta": "Segalak galaknya harimau pasti ga bakal makan…",
+    "respuesta": "Alpukat",
+    "descripcion": "Masa iya harimau doyan alpukat"
+  },
+  {
+    "index": 274,
+    "pregunta": "Berakit kita kehulu berenang kita ke ?",
+    "respuesta": "Keair",
+    "descripcion": "Kalo berenang ya sudah pasti di air"
+  },
+  {
+    "index": 275,
+    "pregunta": "Orang yang bekerja di rumah sakit ?",
+    "respuesta": "Digaji",
+    "descripcion": "Namanya juga bekerja.. ya pasti di gaji lah"
+  },
+  {
+    "index": 276,
+    "pregunta": "Jika kita ngak pake helm kita kena",
+    "respuesta": "Panapa",
+    "descripcion": "Kebalikan ga kenapa-napa, ya kenapanapa, kena tilang contohnya"
+  },
+  {
+    "index": 277,
+    "pregunta": "Bangun tidur ku terus..",
+    "respuesta": "Melek",
+    "descripcion": "Melek dlu baru mandi..segeer…"
+  },
+  {
+    "index": 278,
+    "pregunta": "Yang mengatur pertandingan sepak bola??",
+    "respuesta": "Waktu",
+    "descripcion": "Peraturan nya 2×45 menit..normalnya loh.."
+  },
+  {
+    "index": 279,
+    "pregunta": "Kendaraan roda 3?",
+    "respuesta": "Wajar",
+    "descripcion": "Ada bemo, bajaj, becak dan lain lain…"
+  },
+  {
+    "index": 280,
+    "pregunta": "Bahasa indonesia eat",
+    "respuesta": "Salah",
+    "descripcion": "Eat itu bahasa inggris bukan bahasa indonesia"
+  },
+  {
+    "index": 281,
+    "pregunta": "Mobil tidak bisa jalan karena bannya..",
+    "respuesta": "Korang",
+    "descripcion": "Kalo banya(k) orang kan emang ga bisa lewat kan.."
+  },
+  {
+    "index": 282,
+    "pregunta": "Kambing jika ditusuk-tusuk dibakar jadinya?",
+    "respuesta": "Lari",
+    "descripcion": "Salah apa kambing nya, sampe ditusuk ama dibakar 🙁"
+  },
+  {
+    "index": 283,
+    "pregunta": "Air beriak tanda tak …",
+    "respuesta": "Kalem",
+    "descripcion": "Kalau kalem pasti tenang, tidak beriak atau berisik."
+  },
+  {
+    "index": 284,
+    "pregunta": "Hadiah yang romantis buat kamu itu…",
+    "respuesta": "Dilamar",
+    "descripcion": "Selamat ya"
+  },
+  {
+    "index": 285,
+    "pregunta": "Masakan enak khas padang",
+    "respuesta": "Nendang",
+    "descripcion": "Karena makanan yang enak pasti rasanya nendang"
+  },
+  {
+    "index": 286,
+    "pregunta": "Untuk menyalakan lampu kita harus tekan..",
+    "respuesta": "Sekali",
+    "descripcion": "Klo dua kali ya mati kan?"
+  },
+  {
+    "index": 287,
+    "pregunta": "Kalo minum di ?",
+    "respuesta": "Telan",
+    "descripcion": "Klo disembur mbah dukun"
+  },
+  {
+    "index": 288,
+    "pregunta": "Alat musik gesek…",
+    "respuesta": "Bunyi",
+    "descripcion": "Ada biola, cello, rebab dan masih banyak lagi"
+  },
+  {
+    "index": 289,
+    "pregunta": "Beli obat di",
+    "respuesta": "Minum",
+    "descripcion": "Karena kalau tidak diminum di apain lagi"
+  },
+  {
+    "index": 290,
+    "pregunta": "Jalan yang di bandung paling indah adalah jalan…",
+    "respuesta": "Denganmu",
+    "descripcion": "Duh indahnya"
+  },
+  {
+    "index": 291,
+    "pregunta": "Mobil parkir di",
+    "respuesta": "Matikan",
+    "descripcion": "Kalo gak dimatiin mobilnya jalan"
+  },
+  {
+    "index": 292,
+    "pregunta": "Pemuda mendapakan pacar karna suka bermain…",
+    "respuesta": "Mata",
+    "descripcion": "Asal jangan main mata ama pacar orang…."
+  },
+  {
+    "index": 293,
+    "pregunta": "Balonku ada lima",
+    "respuesta": "Duaar",
+    "descripcion": "Meletus balon, hatiku sangat kacau hiks hiks…"
+  },
+  {
+    "index": 294,
+    "pregunta": "Lawan mama",
+    "respuesta": "Dosa",
+    "descripcion": "Kalo takut dosa jangan lawan kata mama"
+  },
+  {
+    "index": 295,
+    "pregunta": "Seorang pemenang lomba biasanya mendapatkan",
+    "respuesta": "Ridho",
+    "descripcion": "Kalo gak dapat ridho orang tua gak akan menang"
+  },
+  {
+    "index": 296,
+    "pregunta": "Semua akan indah pada…",
+    "respuesta": "Haltidak",
+    "descripcion": "Tidak semua berakhir indah thoo.."
+  },
+  {
+    "index": 297,
+    "pregunta": "Hewan punya jari 6",
+    "respuesta": "Kocak",
+    "descripcion": "Ya lucu lah kalo punya jari 6"
+  },
+  {
+    "index": 298,
+    "pregunta": "Hewan apa yang paling aneh",
+    "respuesta": "Kupukupu",
+    "descripcion": "Karena kalo siang makan nasi, kalo malam minum susu"
+  },
+  {
+    "index": 299,
+    "pregunta": "Anaknya katak disebut..",
+    "respuesta": "Keluarga",
+    "descripcion": "Kan ada induknya ya ada anaknya.."
+  },
+  {
+    "index": 300,
+    "pregunta": "Air beriak tanda tak?",
+    "respuesta": "Datar",
+    "descripcion": "Kalo beriak pasti bergelombang"
+  },
+  {
+    "index": 301,
+    "pregunta": "Kotak apa yang ngga bisa dipindahin",
+    "respuesta": "Pinalti",
+    "descripcion": "Coba aja kalo bisa"
+  },
+  {
+    "index": 302,
+    "pregunta": "Apel rasanya",
+    "respuesta": "Capek",
+    "descripcion": "Kalo apel bandera harus capek, kan berdiri"
+  },
+  {
+    "index": 303,
+    "pregunta": "Di laut ada ikan paus teri dan ikan..",
+    "respuesta": "Tongkol",
+    "descripcion": "Dan masih banyak lainnya"
+  },
+  {
+    "index": 304,
+    "pregunta": "Orang makan karena?",
+    "respuesta": "Sadar",
+    "descripcion": "Kalau gak sadar gak mungkin bisa makan"
+  },
+  {
+    "index": 305,
+    "pregunta": "Kita bisa melihat wajah kita sendiri di..",
+    "respuesta": "Sima",
+    "descripcion": "Ada kan foto kita di sim a, ya kan?"
+  },
+  {
+    "index": 306,
+    "pregunta": "Lokasi 7 keajaiban dunia….",
+    "respuesta": "Mencar",
+    "descripcion": "Borobudur ada di jogja, india ada taj mahal, dan masih banyak lainnya"
+  },
+  {
+    "index": 307,
+    "pregunta": "Orang yang memimpin negara",
+    "respuesta": "Pastiada",
+    "descripcion": "Orang yang memimpin negara ya pasti ada"
+  },
+  {
+    "index": 308,
+    "pregunta": "Kalau ambulan lewat biasanya ada bunyi",
+    "respuesta": "Tintinn",
+    "descripcion": "Kan kalau ambulan lewat tempat ramai pasti klakson"
+  },
+  {
+    "index": 309,
+    "pregunta": "Kalajengking dan ular hidup..",
+    "respuesta": "Berdua",
+    "descripcion": "Saya sebutkan kalajengking dan ular makanya berdua"
+  },
+  {
+    "index": 310,
+    "pregunta": "Berani karena benar ___ karena salah",
+    "respuesta": "Bukan",
+    "descripcion": "Wahaha gampang kan??"
+  },
+  {
+    "index": 311,
+    "pregunta": "Dalam pertandingan sepak bola",
+    "respuesta": "Lihat",
+    "descripcion": "Kalo ga lihat ngapain dia jaga gawang?!"
+  },
+  {
+    "index": 312,
+    "pregunta": "Kura-kura adalah hewan yang memiliki..",
+    "respuesta": "Temencewe",
+    "descripcion": "Boleh dong punya temen cewe, jangan posesif gitu dong.."
+  },
+  {
+    "index": 313,
+    "pregunta": "Pemain bola yang jarang digubris lawan..",
+    "respuesta": "Sepele",
+    "descripcion": "Gimana mau digubris, sepele banget sih.."
+  },
+  {
+    "index": 314,
+    "pregunta": "Supaya tampil maksimal seorang penyanyi harus cek..",
+    "respuesta": "Saldo",
+    "descripcion": "Jadi supaya nyanyinya ga ada beban, kan udah dibayar.."
+  },
+  {
+    "index": 315,
+    "pregunta": "Jauh di mata dekat di",
+    "respuesta": "Sini",
+    "descripcion": "Kalau disana jauh, sini aja"
+  },
+  {
+    "index": 316,
+    "pregunta": "Cepat motor atau sepeda",
+    "respuesta": "Mobil",
+    "descripcion": "Ya jelas kan mobil yang lebih cepat"
+  },
+  {
+    "index": 317,
+    "pregunta": "Cincin dipakai dijari",
+    "respuesta": "Masuk",
+    "descripcion": "Ya klo ga masuk ga bisa dipakai"
+  },
+  {
+    "index": 318,
+    "pregunta": "Yang kita pakai ketika hujan..",
+    "respuesta": "Sayang",
+    "descripcion": "Klo basah kena ujan kan sayang karena basah"
+  },
+  {
+    "index": 319,
+    "pregunta": "Hewan yang nempel di tembok?",
+    "respuesta": "Capek",
+    "descripcion": "Jalan melulu aja capek, apalagi nempel…"
+  },
+  {
+    "index": 320,
+    "pregunta": "Jika anda dikelilingi 20 ekor singa apa yang akan anda lakukan?",
+    "respuesta": "Santai",
+    "descripcion": "Kan cuman ekornya doang"
+  },
+  {
+    "index": 321,
+    "pregunta": "Orang kedinginan",
+    "respuesta": "Remotac",
+    "descripcion": "Suhu ac di remote 16°c, kucing aja kedinginan."
+  },
+  {
+    "index": 322,
+    "pregunta": "Temennya upin??",
+    "respuesta": "Ijat",
+    "descripcion": "Karna ipin adeknya"
+  },
+  {
+    "index": 323,
+    "pregunta": "Petani mencangkul ke ?",
+    "respuesta": "Bawah",
+    "descripcion": "Emang ada mencangkul ke atas"
+  },
+  {
+    "index": 324,
+    "pregunta": "Gajah hanya di",
+    "respuesta": "Belakang",
+    "descripcion": "Karena gajah huruf h nya ada di belakang"
+  },
+  {
+    "index": 325,
+    "pregunta": "Dalam ilmu fisika zat padat menjadi zat cair di sebut proses..",
+    "respuesta": "Pegadaian",
+    "descripcion": "Butuh dana cepat? 30 menit langsung cair!"
+  },
+  {
+    "index": 326,
+    "pregunta": "Ani menggambar segita sama",
+    "respuesta": "Kiki",
+    "descripcion": "preguntanya sedang kerja kelompok"
+  },
+  {
+    "index": 327,
+    "pregunta": "Tidak memilih saat pemilu",
+    "respuesta": "Gaasik",
+    "descripcion": "Pemilu menentukan nasib bangsa, ga milih ga asik"
+  },
+  {
+    "index": 328,
+    "pregunta": "Kaki panas karena kena",
+    "respuesta": "Lpotnya",
+    "descripcion": "Panas kena knalpotnya"
+  },
+  {
+    "index": 329,
+    "pregunta": "Pencuri biasa mencuri di…",
+    "respuesta": "Amdiam",
+    "descripcion": "Kalo berisik nanti ketahuan"
+  },
+  {
+    "index": 330,
+    "pregunta": "Polisi mengatur jalan lalu …..",
+    "respuesta": "Lancar",
+    "descripcion": "Kan abis ngatur jalan, lancar dong"
+  },
+  {
+    "index": 331,
+    "pregunta": "Sedikit – sedikit lama lama jadi..",
+    "respuesta": "Banyak",
+    "descripcion": "Sedikit kalo ditambah terus kan jadi banyak"
+  },
+  {
+    "index": 332,
+    "pregunta": "…….. di balik batuu",
+    "respuesta": "Uutab",
+    "descripcion": "Benar, kalau uutab di balik jadi batuuu"
+  },
+  {
+    "index": 333,
+    "pregunta": "Ada semut ada",
+    "respuesta": "Enya",
+    "descripcion": "Kalo nggak ada e nya ya smut"
+  },
+  {
+    "index": 334,
+    "pregunta": "Orang yang jarang pergi kemana-mana disebut?",
+    "respuesta": "Kiper",
+    "descripcion": "Lah kalo kemana-mana kebobolan dong!"
+  },
+  {
+    "index": 335,
+    "pregunta": "Dunia tak selebar daun??",
+    "respuesta": "Betul",
+    "descripcion": "Karena memang dunia tidak selebar daun"
+  },
+  {
+    "index": 336,
+    "pregunta": "Singkatan dari tanah",
+    "respuesta": "Sda",
+    "descripcion": "Benar! tanah, udara, dan air termasuk sda (sumber daya alam)"
+  },
+  {
+    "index": 337,
+    "pregunta": "Hewan pemakan rumput",
+    "respuesta": "Kasihan",
+    "descripcion": "Kasihan kan udah makan rumput dijadikan sate lagi.."
+  },
+  {
+    "index": 338,
+    "pregunta": "Motor yang kenceng apanya ?",
+    "respuesta": "Bautnya",
+    "descripcion": "Kalo gak kenceng bodynya lepas lah gimana ?"
+  },
+  {
+    "index": 339,
+    "pregunta": "Kendaraan yang di tarik kuda..",
+    "respuesta": "Gaaman",
+    "descripcion": "Karena ditarik seekor kuda kendaraanya bisa kecelakaan"
+  },
+  {
+    "index": 340,
+    "pregunta": "Teman tarzan itu..",
+    "respuesta": "Kamu",
+    "descripcion": "Kamu kan mirip kera, aku juga…"
+  },
+  {
+    "index": 341,
+    "pregunta": "Apa yg di lakukan ayah ketika bulan ramadhan",
+    "respuesta": "Kerja",
+    "descripcion": "Karna belum waktunya libur"
+  },
+  {
+    "index": 342,
+    "pregunta": "Sebelum tuhan menciptakan alam. tuhan menciptakan?",
+    "respuesta": "Vetyvera",
+    "descripcion": "Vetyvera kakak nya alam, duluan pasti lah ya"
+  },
+  {
+    "index": 343,
+    "pregunta": "Mahluk hidup yang mempunyai persediaan air",
+    "respuesta": "Unta",
+    "descripcion": "…"
+  },
+  {
+    "index": 344,
+    "pregunta": "20 dibagi 2 dihitung…",
+    "respuesta": "Sedekah",
+    "descripcion": "Kan uang 20 dibagi 2 dihitung sedekah"
+  },
+  {
+    "index": 345,
+    "pregunta": "Gajah mati tinggalkan..",
+    "respuesta": "Dangnya",
+    "descripcion": "Tinggal-kandangnya, kalau di hutan tinggalkan hutannya.."
+  },
+  {
+    "index": 346,
+    "pregunta": "Galang menyimpan buku di…",
+    "respuesta": "Mas",
+    "descripcion": "Bukunya dimas dipinjam galang kemarin sore"
+  },
+  {
+    "index": 347,
+    "pregunta": "Barang yang bisa di pinjam",
+    "respuesta": "Ada",
+    "descripcion": "Kalo ga ada ya ga bisa di pinjam"
+  },
+  {
+    "index": 348,
+    "pregunta": "Cicak biasanya makan?",
+    "respuesta": "Nyammm",
+    "descripcion": "Begitu bunyinya"
+  },
+  {
+    "index": 349,
+    "pregunta": "Hujan turun dari..",
+    "respuesta": "Magrib",
+    "descripcion": "Karena ashar belum turun"
+  },
+  {
+    "index": 350,
+    "pregunta": "Seruling bila di tiup akan?",
+    "respuesta": "Basah",
+    "descripcion": "Coba aja pegang seruling kalian kalo habis di tiup.."
+  },
+  {
+    "index": 351,
+    "pregunta": "Kebanyakan orang tidur waktu",
+    "respuesta": "Merem",
+    "descripcion": "Kalau gak merem ya bukan tidur"
+  },
+  {
+    "index": 352,
+    "pregunta": "Duluan telur apa ayam",
+    "respuesta": "Adam",
+    "descripcion": "Karena duluan nabi adam didunia sebelum ayam dan telur"
+  },
+  {
+    "index": 353,
+    "pregunta": "Hari minggu disebut juga tanggal?",
+    "respuesta": "Tidak",
+    "descripcion": "Kalo hari ya hari, kalo tanggal ya tanggal"
+  },
+  {
+    "index": 354,
+    "pregunta": "Ketika berperang tentara membawa..",
+    "respuesta": "Sepatunya",
+    "descripcion": "Kalo nyeker sakit dong kakinya.."
+  },
+  {
+    "index": 355,
+    "pregunta": "Seekor ayam dinamakan ….",
+    "respuesta": "Kenyang",
+    "descripcion": "Yaa dina makan ayam kan jadi kenyang"
+  },
+  {
+    "index": 356,
+    "pregunta": "Bawa mobil harus bawa",
+    "respuesta": "Satu",
+    "descripcion": "Kalo bawa dua gimana coba ..?!?!"
+  },
+  {
+    "index": 357,
+    "pregunta": "Habis ….. sepah dibuang",
+    "respuesta": "Makan",
+    "descripcion": "Iyakan..kalau sudah dimakan ya dibuang"
+  },
+  {
+    "index": 358,
+    "pregunta": "Motor memiliki roda",
+    "respuesta": "Iya",
+    "descripcion": "Motor jelas punya roda klo gak punya gak bisa jalan dong"
+  },
+  {
+    "index": 359,
+    "pregunta": "Roda itu selalu….",
+    "respuesta": "Berwarna",
+    "descripcion": "Gak ada roda yang gak ada warnanya"
+  },
+  {
+    "index": 360,
+    "pregunta": "Di jalan raya biasanya ada..",
+    "respuesta": "Lampu",
+    "descripcion": "Kalo ga ada lampu ntar ga keliatan dong.."
+  },
+  {
+    "index": 361,
+    "pregunta": "Selain tarik tambang warga merayakan 17an dengan?",
+    "respuesta": "Panjatkandoa",
+    "descripcion": "Karna biar barokah"
+  },
+  {
+    "index": 362,
+    "pregunta": "Alat musik gesek",
+    "respuesta": "Biasa",
+    "descripcion": "Karena sudah biasa ada dipasaran"
+  },
+  {
+    "index": 363,
+    "pregunta": "Tempat ngopi disebut…",
+    "respuesta": "Kali",
+    "descripcion": "Hohoho enak kan ngopi dipinggir kali sore-sore.."
+  },
+  {
+    "index": 364,
+    "pregunta": "Unta hidup di…",
+    "respuesta": "Alam",
+    "descripcion": "Memang semua makhluk hidup tinggal di alam"
+  },
+  {
+    "index": 365,
+    "pregunta": "Apa sebutan untuk seorang yang telah mengambil kemudian pergi",
+    "respuesta": "Mantan",
+    "descripcion": "Karena mantan adalah pencuri hati yang menyakiti kemudian pergi"
+  },
+  {
+    "index": 366,
+    "pregunta": "Nasi sudah menjadi",
+    "respuesta": "Syukur",
+    "descripcion": "Kalau nasi sudah jadi yah harus bersyukur"
+  },
+  {
+    "index": 367,
+    "pregunta": "Yang sering dibawa dilihat dibaca pelajar",
+    "respuesta": "Babv",
+    "descripcion": "Bab lima ada disetiap buku pelajaran"
+  },
+  {
+    "index": 368,
+    "pregunta": "Pak rt bisa terbang",
+    "respuesta": "Tiket",
+    "descripcion": "Kalo mau terbang naik pesawat harus punya tiket"
+  },
+  {
+    "index": 369,
+    "pregunta": "Kebiasaan apa yang dilakukan ketika minum kopi?",
+    "respuesta": "Sruput",
+    "descripcion": "Biar lebih berasa kopinya, ya gak!"
+  },
+  {
+    "index": 370,
+    "pregunta": "Pada lap terakhir rossi memotong marquest pasti….",
+    "respuesta": "Kungan",
+    "descripcion": "Rossi paling hebat di tikungan ."
+  },
+  {
+    "index": 371,
+    "pregunta": "Candi prambanan adalah peninggalan dari jaman..",
+    "respuesta": "Dahulu",
+    "descripcion": "Sekarang ga ada lagi yang bikin candi ya"
+  },
+  {
+    "index": 372,
+    "pregunta": "Anak tidak masuk sekolah karena…",
+    "respuesta": "Diluar",
+    "descripcion": "Kalo ada di dalem berarti dia masuk sekolah"
+  },
+  {
+    "index": 373,
+    "pregunta": "Teman yg membantu batman saat melawan 50 musuh adalah?",
+    "respuesta": "Repot",
+    "descripcion": "Repot lah 50 musuh….aduhhhh.."
+  },
+  {
+    "index": 374,
+    "pregunta": "Patung merlion ada di",
+    "respuesta": "Tempatnya",
+    "descripcion": "Ditempatnya dong, masa patung jalan-jalan"
+  },
+  {
+    "index": 375,
+    "pregunta": "Ikan bernafas dengan",
+    "respuesta": "Tenang",
+    "descripcion": "Kalo gelagapan bisa mati"
+  },
+  {
+    "index": 376,
+    "pregunta": "Motor jatuh karena",
+    "respuesta": "Galiat",
+    "descripcion": "Karena di depannya ada galian, dia galiat.. ya jatuh"
+  },
+  {
+    "index": 377,
+    "pregunta": "Orang mati karena kehilangan…",
+    "respuesta": "Nafas",
+    "descripcion": "Masa orang mati nafas"
+  },
+  {
+    "index": 378,
+    "pregunta": "Kalau semut kecil",
+    "respuesta": "Hewan",
+    "descripcion": "Saya gak salah kan?"
+  },
+  {
+    "index": 379,
+    "pregunta": "Bendera nkri warnanya….",
+    "respuesta": "Cumaduaaja",
+    "descripcion": "Kapan warnanya tiga?"
+  },
+  {
+    "index": 380,
+    "pregunta": "Pemain real madrid bernomor punggung 11",
+    "respuesta": "Bule",
+    "descripcion": "Kan gareth bale emang bule. gitu aja kok susah"
+  },
+  {
+    "index": 381,
+    "pregunta": "Ada raja",
+    "respuesta": "Yatim",
+    "descripcion": "Kan bapanya mati 🙁"
+  },
+  {
+    "index": 382,
+    "pregunta": "Teh diberi es jadi",
+    "respuesta": "Seger",
+    "descripcion": "Apalagi pas cuaca panas"
+  },
+  {
+    "index": 383,
+    "pregunta": "Kita melihat bintang di..",
+    "respuesta": "Pundak",
+    "descripcion": "Kan dipundak jendral, pangkat itu lho.."
+  },
+  {
+    "index": 384,
+    "pregunta": "Kaki menginjak kaca….",
+    "respuesta": "Mata",
+    "descripcion": "Yah ga bisa lihat…rusak kacamatanya…"
+  },
+  {
+    "index": 385,
+    "pregunta": "Bisa kuat makan bayam?",
+    "respuesta": "Toploe",
+    "descripcion": "Bener2 top, saya aja lemes klo bayam doang"
+  },
+  {
+    "index": 386,
+    "pregunta": "Perbuatan yang bikin heran",
+    "respuesta": "Bersiul",
+    "descripcion": "Tuh kan heran.."
+  },
+  {
+    "index": 387,
+    "pregunta": "Bagaimana cara menambah teman dalam waktu sekejap",
+    "respuesta": "Nembakcewe",
+    "descripcion": "Kalau di tolak pasti bilang kita temenan aja..kasian"
+  },
+  {
+    "index": 388,
+    "pregunta": "Yang sering mengganggu manusia saat ingin melakukan kebaikan?",
+    "respuesta": "Nakal",
+    "descripcion": "Kok mau berbuat baik di ganggu? nakal banget yah"
+  },
+  {
+    "index": 389,
+    "pregunta": "Jika mau pergi ke acara kondangan",
+    "respuesta": "Anrapi",
+    "descripcion": "Gitu dong, rapi kan ganteng"
+  },
+  {
+    "index": 390,
+    "pregunta": "Pohon yg tumbuh setelah bulan puasa",
+    "respuesta": "Maaf",
+    "descripcion": "Pohon maaf lahir batin ya"
+  },
+  {
+    "index": 391,
+    "pregunta": "Ada domba sebelas di truk",
+    "respuesta": "Sebelas",
+    "descripcion": "Kan cuma loncat doang gak kabur"
+  },
+  {
+    "index": 392,
+    "pregunta": "Jalan bebas macet",
+    "respuesta": "Top",
+    "descripcion": "Berarti jalan tol pasti top"
+  },
+  {
+    "index": 393,
+    "pregunta": "Yang membantu dokter…",
+    "respuesta": "Sembuh",
+    "descripcion": "Yang membantu dokter, insya allah sembuh.."
+  },
+  {
+    "index": 394,
+    "pregunta": "Pantai di jakarta?",
+    "respuesta": "Abiss",
+    "descripcion": "Lama lama abis karena limbah, sedih"
+  },
+  {
+    "index": 395,
+    "pregunta": "Hewan yang dapat berubah warna kulitnya",
+    "respuesta": "Canggih",
+    "descripcion": "(bunglon) karena hewan yang bisa berubah warna itu canggih kan!"
+  },
+  {
+    "index": 396,
+    "pregunta": "Apa yang biasa maling lakukan saat sabtu malam minggu",
+    "respuesta": "Nyuci",
+    "descripcion": "preguntanya bajunya bau, karena waktu jumat malam sabtu buat lari dikejar warga"
+  },
+  {
+    "index": 397,
+    "pregunta": "Hewan yang hinggap dimakanan",
+    "respuesta": "Lapar",
+    "descripcion": "Ya kan karena lapar"
+  },
+  {
+    "index": 398,
+    "pregunta": "Bersatu kita teguh bercerai kita…",
+    "respuesta": "Pisah",
+    "descripcion": "Klo sudah cerai yah pasti pisah lah"
+  },
+  {
+    "index": 399,
+    "pregunta": "Jakarta macet si….lewat",
+    "respuesta": "Aplo",
+    "descripcion": "Jakarta macet siap emang lo lewat ??"
+  },
+  {
+    "index": 400,
+    "pregunta": "Orang yang sering datang ke kampus",
+    "respuesta": "Masihidup",
+    "descripcion": "Yaa klo udah mati gak bisa ke kampus"
+  },
+  {
+    "index": 401,
+    "pregunta": "Dalam satu tahun…..bulan",
+    "respuesta": "Cumasatu",
+    "descripcion": "Walaupun nunggu lima tahun juga, bulan tetap satu jumlahnya."
+  },
+  {
+    "index": 402,
+    "pregunta": "Setelah lulus sekolah lanjut",
+    "respuesta": "Pulang",
+    "descripcion": "Pulang…kasih kabar orang tua, selamat yah!"
+  },
+  {
+    "index": 403,
+    "pregunta": "Seekor rusa memiliki..",
+    "respuesta": "Temann",
+    "descripcion": "Saking banyak teman nya ampe lebih n nya…"
+  },
+  {
+    "index": 404,
+    "pregunta": "Kartun ninja asal jepang",
+    "respuesta": "Nonton",
+    "descripcion": "preguntanya kartunnya seru"
+  },
+  {
+    "index": 405,
+    "pregunta": "Agus pengen bermain bola di..",
+    "respuesta": "Bolehkan",
+    "descripcion": "Dibolehkan sama orang tuanya, kalau enggak nanti agus nangis"
+  },
+  {
+    "index": 406,
+    "pregunta": "Hewan apa yang pintar memprediksi cuaca",
+    "respuesta": "Harimau",
+    "descripcion": "Harimau hujan, harimau panas, kalau malam harimau gelap.."
+  },
+  {
+    "index": 407,
+    "pregunta": "Bola apa yang mirip kucing?",
+    "respuesta": "Bolaemon",
+    "descripcion": "Hai baling baling bambuuu"
+  },
+  {
+    "index": 408,
+    "pregunta": "Yang mengemudikan kereta….",
+    "respuesta": "Masagus",
+    "descripcion": "Mas agus tetangga saya lho ya…."
+  },
+  {
+    "index": 409,
+    "pregunta": "Lari jarak jauh",
+    "respuesta": "Malesah",
+    "descripcion": "Kan jauh,belom lagi panas.."
+  },
+  {
+    "index": 410,
+    "pregunta": "Kalau tidur jangan lupa",
+    "respuesta": "Bangun",
+    "descripcion": "Kalo gak bangun bisa gawat"
+  },
+  {
+    "index": 411,
+    "pregunta": "Gorila apa yang sebesar gedung?",
+    "respuesta": "Kegedean",
+    "descripcion": "Mana ada gorila yang sebesar gedung…."
+  },
+  {
+    "index": 412,
+    "pregunta": "Sedikit sedikit lama lama jadi….",
+    "respuesta": "Dikit",
+    "descripcion": "Kan sedikit jadi dikit lh di ambil terus"
+  },
+  {
+    "index": 413,
+    "pregunta": "Pak polisi menilang pelanggar dengan?",
+    "respuesta": "Prriit",
+    "descripcion": "Kalau gak di prriiit gak minggir dong pelanggar nya"
+  }
+]
